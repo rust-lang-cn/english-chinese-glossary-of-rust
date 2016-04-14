@@ -10,3 +10,6 @@ Rust 语言相关术语中英文对照表，词汇来源主要为 [The Rust Prog
 [rust-std]:https://doc.rust-lang.org/std/
 [rustonomicon]:https://doc.rust-lang.org/nomicon/
 [rust-by-example]:http://rustbyexample.com/
+
+查看 [Rust 术语表][rust-glossary]。
+[rust-glossary]:./rust-glossary.md
