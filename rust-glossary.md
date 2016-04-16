@@ -72,6 +72,7 @@ extension 扩展名
 
 ## F
 field-level mutability 字段级别可变性  
+floating-point number 浮点数  
 fragment specifier 片段分类符  
 free variables 自由变量  
 function 函数  
@@ -102,6 +103,7 @@ inheritance 继承
 integrated development environment(简称IDE) 集成开发环境，中文著作中通常写直接写 IDE  
 "integration-style" tests 集成测试  
 installer 安装程序，安装器  
+integer 整型，整数  
 interior mutability 内部可变性  
 intrinsic 固有的  
 iterator 迭代器  
@@ -165,6 +167,7 @@ project 项目，工程
 prototype 原型  
 
 ## R
+RAII (Resource Acquisition Is Initialization) 源获取即初始化  
 raw pointer 裸指针  
 recursive macro 递归宏  
 reference 引用  
@@ -201,7 +204,9 @@ systems programming language 系统级编程语言
 tagged union 标记联合  
 target triple （多层次指标，三层/重 指标/目标，triple本义是“三”，但此处虚指“多”）  
 terminal 终端  
-TOML (Tom's Obvious, Minimal Language) 配置语言
+the least significant bit (LSB) 最低数字位  
+the most significant bit (MSB) 最高数字位  
+TOML (Tom's Obvious, Minimal Language) 配置语言  
 trait (其字面上有“特征，特性”之意，不作翻译）  
 trait bound -> trait限定（bound 有“限制，限定，极限”之意）  
 trait object -> trait对象  
