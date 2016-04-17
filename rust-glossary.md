@@ -2,17 +2,22 @@
 
 ## A
 ahead-of-time compiled language 预编译语言  
+alias 别名  
+annotate 标注，注解（动词）  
+annotation 标注，注解（名词）  
 argument 参数  
 argument type 参数类型  
 assignment 赋值  
 associated functions 关联函数  
 associated types 关联类型  
 asterisk 星号（*)  
+attribute 属性  
 automated building 自动构建  
 automated test 自动测试，自动化测试  
 
 ## B
 baroque macro 巴洛克宏  
+benchmark 基准  
 binary 二进制的  
 binary excutable 二进制的可执行文件  
 block 代码块  
@@ -41,7 +46,6 @@ configuration 配置
 constructor 构造器  
 consumer 消费者  
 crate 包装箱，包  
-src （source 的缩写，指源代码）
 curly braces 大括号，包含“{”和“}”  
 custom type 自定义类型  
 
@@ -59,6 +63,7 @@ device drive 设备驱动
 directory 目录  
 dispatch 分发  
 diverging functions 发散函数  
+documentation 文档  
 dynamic language 动态类型语言  
 
 ## E
@@ -66,13 +71,14 @@ exhaustiveness checking 穷尽性检查，无遗漏检查
 expression 表达式  
 expression-oriented language 面向表达式的语言  
 explicit 显式，明确  
-explicit discriminator 明确的辨别标志  
+explicit discriminator 显式的辨别值  
 explicit type conversion 显式类型转换  
 extension 扩展名  
 
 ## F
 field-level mutability 字段级别可变性  
 floating-point number 浮点数  
+flow control 流程控制  
 fragment specifier 片段分类符  
 free variables 自由变量  
 function 函数  
@@ -83,6 +89,7 @@ garbage collector 垃圾回收
 generic 泛型  
 generic type 泛型类型  
 growable 可增长的  
+guard 守卫  
 
 ## H
 hash 哈希，哈希值  
@@ -93,7 +100,7 @@ hygienic macro system 卫生宏系统
 immutable 不可变的  
 implement 实现  
 implicit 隐式，不明确  
-implicit discriminator 不明确的辨别标志  
+implicit discriminator  隐式的辨别值  
 implicit type conversion 隐式类型转换  
 in assignment 在赋值（语句）  
 index (pl. indices) 索引  
@@ -112,11 +119,10 @@ iterator invalidation 迭代器失效
 
 ## L
 library 库  
-
 lifetimes 生命周期  
 lifetime elision 生命周期省略  
 linked-list 链表  
-literal 数据，字面量，字面常量，字面上的？英文意思：字面意义的（内容）  
+literal 数据，常量数据，字面值，字面量，字面常量，字面上的？英文意思：字面意义的（内容）  
 low-level code 底层代码  
 low-level language 底层语言  
 l-value 左值  
@@ -151,7 +157,7 @@ ownership 所有权
 package manager 包管理器，软件包管理器  
 parameter 参量  
 parametric polymorphism 参数多态  
-parentheses 小括号，包括“(”和“)”
+parentheses 小括号，包括“(”和“)”  
 parse 语法分析器  
 pattern 模式  
 pattern matching 模式匹配  
@@ -159,7 +165,7 @@ platform 平台
 polymorphism 多态  
 powershell （Windows 系统的一种命令行外壳程序和脚本环境）  
 possibility of absence  不存在的可能性  
-prelude （预先导入模块，英文本意：序曲，前奏。此词不译）
+prelude （预先导入模块，英文本意：序曲，前奏。此词不译）  
 primitive types 基本类型，原生类型，简单类型  
 print 打印  
 procedural macros 宏程序  
@@ -168,6 +174,7 @@ prototype 原型
 
 ## R
 RAII (Resource Acquisition Is Initialization) 源获取即初始化  
+range 区间，范围  
 raw pointer 裸指针  
 recursive macro 递归宏  
 reference 引用  
@@ -188,6 +195,7 @@ semicolon 分号，“;”
 slice 切片  
 source file 源文件  
 source code 源代码  
+src （source 的缩写，指源代码）  
 statement 语句  
 statically allocated 静态分配  
 statically allocated string 静态分配的字符串  
@@ -204,6 +212,8 @@ systems programming language 系统级编程语言
 tagged union 标记联合  
 target triple （多层次指标，三层/重 指标/目标，triple本义是“三”，但此处虚指“多”）  
 terminal 终端  
+testing 测试  
+testsuit 测试套件  
 the least significant bit (LSB) 最低数字位  
 the most significant bit (MSB) 最高数字位  
 TOML (Tom's Obvious, Minimal Language) 配置语言  
@@ -214,11 +224,12 @@ transmute (其字面上有”变化，变形，变异”之意，不作翻译)
 trivial 平凡的  
 troubleshooting 疑难解答，故障诊断，故障排除，故障分析  
 tuple 元组  
-two's complement 补码，二补数
+two's complement 补码，二补数  
 two-word object 双字对象  
 type annotation 类型标注  
 type erasure 类型清除  
 type inference 类型推导  
+type inference engine 类型推导引擎  
 type placeholder 类型占位符  
 type signature 类型标记  
 
@@ -227,6 +238,7 @@ undefined behavior 未定义行为
 unit-like struct 类单元结构体  
  unit struct 单元结构体  
 "unit-style" tests 单元测试  
+unit test 单元测试  
 unit type 单元类型  
 uninstall 卸载  
 universal function call syntax (abbr. UFCS) 通用函数调用语法  
