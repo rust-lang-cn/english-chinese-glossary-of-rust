@@ -113,6 +113,7 @@ installer 安装程序，安装器
 integer 整型，整数  
 interior mutability 内部可变性  
 intrinsic 固有的  
+iteration 迭代  
 iterator 迭代器  
 iterator adaptors 迭代器适配器  
 iterator invalidation 迭代器失效  
@@ -123,6 +124,7 @@ lifetimes 生命周期
 lifetime elision 生命周期省略  
 linked-list 链表  
 literal 数据，常量数据，字面值，字面量，字面常量，字面上的？英文意思：字面意义的（内容）  
+loop 循环（作关键字时不译）  
 low-level code 底层代码  
 low-level language 底层语言  
 l-value 左值  
