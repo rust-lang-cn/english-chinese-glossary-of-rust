@@ -148,6 +148,7 @@ mutiple patterns 多重模式
 Nightly Rust -> Rust 开发版（nightly本意是“每夜，每天晚上”，指代码每天都更新）  
 no-op (类型转换章节中）  
 non-scalar cast 非标量转换  
+notation 符号，记号  
 
 ## O
 obtimization 优化  
