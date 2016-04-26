@@ -20,7 +20,7 @@ baroque macro 巴洛克宏
 benchmark 基准  
 binary 二进制的  
 binary excutable 二进制的可执行文件  
-block 代码块  
+block 语句块，代码块  
 borrowing 借用  
 bound 限定  
 buffer 缓冲，缓冲区，缓冲器，缓存  
@@ -120,7 +120,7 @@ iterator invalidation 迭代器失效
 
 ## L
 library 库  
-lifetimes 生命周期  
+lifetimes 生存时间，寿命，生命周期  
 lifetime elision 生命周期省略  
 linked-list 链表  
 literal 数据，常量数据，字面值，字面量，字面常量，字面上的？英文意思：字面意义的（内容）  
