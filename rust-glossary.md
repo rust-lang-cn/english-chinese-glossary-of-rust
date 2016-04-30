@@ -5,6 +5,7 @@ ahead-of-time compiled language 预编译语言
 alias 别名  
 annotate 标注，注解（动词）  
 annotation 标注，注解（名词）  
+anonymity 匿名  
 argument 参数  
 argument type 参数类型  
 assignment 赋值  
@@ -92,7 +93,8 @@ growable 可增长的
 guard 守卫  
 
 ## H
-hash 哈希，哈希值  
+hash 哈希，哈希值，散列  
+hash map 散列映射  
 hygiene 卫生  
 hygienic macro system 卫生宏系统  
 
@@ -123,6 +125,7 @@ library 库
 lifetimes 生存时间，寿命，生命周期  
 lifetime elision 生命周期省略  
 linked-list 链表  
+list 表  
 literal 数据，常量数据，字面值，字面量，字面常量，字面上的？英文意思：字面意义的（内容）  
 loop 循环（作关键字时不译）  
 low-level code 底层代码  
@@ -132,6 +135,7 @@ l-value 左值
 ## M
 main function -> main 函数，主函数
 macros 宏  
+map 映射（一般不译）  
 match guards 匹配守卫  
 meta 原则  
 metaprogramming 元编程  
@@ -251,7 +255,7 @@ unsized types 不定长类型
 variable binding 变量绑定  
 variable shadowing 变量隐藏，变量覆盖，变量隐蔽  
 variable capture 变量捕获  
-vector （其字面上有“向量”之意，不作翻译）  
+vector （向量，不作翻译）  
 vtable 虚函数表  
 
 ## Z
