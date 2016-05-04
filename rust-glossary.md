@@ -28,6 +28,7 @@ buffer 缓冲，缓冲区，缓冲器，缓存
 builder pattern 创建者模式  
 
 ## C
+caller 调用者  
 cargo (Rust 软件包管理器，不译，该词作名词是意思是“货物”，作动词时意思是“货物”)  
 cargo-fy -> Cargo 化，使用 Cargo 创建项目  
 case analysis 事例分析  
@@ -65,6 +66,7 @@ directory 目录
 dispatch 分发  
 diverging functions 发散函数  
 documentation 文档  
+dot operator 点运算符  
 dynamic language 动态类型语言  
 
 ## E
@@ -112,6 +114,8 @@ inheritance 继承
 integrated development environment(简称IDE) 集成开发环境，中文著作中通常写直接写 IDE  
 "integration-style" tests 集成测试  
 installer 安装程序，安装器  
+instance 实例  
+instance method 实例方法  
 integer 整型，整数  
 interior mutability 内部可变性  
 intrinsic 固有的  
@@ -145,6 +149,7 @@ method chaining 方法链
 module 模块  
 monomorphization (mono: one, morph: form) 单态  
 move semantics 移动语义  
+mutable 可变  
 mutable reference 可变引用  
 mutiple patterns 多重模式  
 
@@ -212,6 +217,7 @@ string 字符串
 string literal 字符串常量  
 string slices 字符串片段  
 subscript notation 下标  
+sugar  
 syntax context 语法上下文  
 systems programming language 系统级编程语言  
 
