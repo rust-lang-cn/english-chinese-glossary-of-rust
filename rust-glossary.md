@@ -1,6 +1,8 @@
 # Rust 语言术语中英文对照表
 
 ## A
+accumulator 累加器  
+accumulator variable 累加器变量  
 ahead-of-time compiled language 预编译语言  
 alias 别名  
 annotate 标注，注解（动词）  
@@ -29,6 +31,7 @@ builder pattern 创建者模式
 
 ## C
 caller 调用者  
+capture 捕获  
 cargo (Rust 软件包管理器，不译，该词作名词是意思是“货物”，作动词时意思是“货物”)  
 cargo-fy -> Cargo 化，使用 Cargo 创建项目  
 case analysis 事例分析  
@@ -119,6 +122,7 @@ instance method 实例方法
 integer 整型，整数  
 interior mutability 内部可变性  
 intrinsic 固有的  
+iterate 重复  
 iteration 迭代  
 iterator 迭代器  
 iterator adaptors 迭代器适配器  
@@ -155,6 +159,7 @@ mutiple patterns 多重模式
 
 ## N
 Nightly Rust -> Rust 开发版（nightly本意是“每夜，每天晚上”，指代码每天都更新）  
+non-copy type 非复制类型  
 no-op (类型转换章节中）  
 non-scalar cast 非标量转换  
 notation 符号，记号  
@@ -207,6 +212,7 @@ semicolon 分号，“;”
 slice 切片  
 source file 源文件  
 source code 源代码  
+square 平方，二次方，二次幂  
 src （source 的缩写，指源代码）  
 statement 语句  
 statically allocated 静态分配  
