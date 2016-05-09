@@ -35,7 +35,7 @@ builder pattern                  |  创建者模式                   |
 **C**                            |                               |
 caller                           | 调用者                        |
 capture                          | 捕获                          |
-cargo                            | (Rust 软件包管理器，不译)     | 该词作名词是意思是“货物”，<br>作动词时意思是“装载货物”
+cargo                            | (Rust 软件包管理器，不译)     | 该词作名词时意思是“货物”，<br>作动词时意思是“装载货物”
 cargo-fy                         | Cargo 化，使用 Cargo 创建项目 |
 case analysis                    | 事例分析                      |
 cast                             | 类型转换，转型                |
