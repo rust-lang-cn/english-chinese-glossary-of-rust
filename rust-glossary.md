@@ -13,7 +13,7 @@ alias                            | 别名                          |
 annotate                         | 标注，注解（动词）            |
 annotation                       | 标注，注解（名词）            |
 anonymity                        | 匿名                          |
-argument                         | 参数                          |
+argument                         | 参数，实参，实际参数          | 不严格区分的话， argument（参数）和 <br> parameter（参量）可以互换地使用
 argument type                    | 参数类型                      |
 assignment                       | 赋值                          |
 associated functions             | 关联函数                      |
@@ -77,7 +77,7 @@ dynamic language                 | 动态类型语言                  |
 exhaustiveness checking          | 穷尽性检查，无遗漏检查        |
 expression                       | 表达式                        |
 expression-oriented language     | 面向表达式的语言              |
-explicit                         | 显式，明确                    |
+explicit                         | 显式                          |
 explicit discriminator           | 显式的辨别值                  |
 explicit type conversion         | 显式类型转换                  |
 extension                        | 扩展名                        |
@@ -97,13 +97,13 @@ growable                         | 可增长的                      |
 guard                            | 守卫                          |
 **H**                            |                               |
 hash                             | 哈希，哈希值，散列            |
-hash map                         | 散列映射                      |
+hash map                         | 散列映射，哈希表              |
 hygiene                          | 卫生                          |
 hygienic macro system            | 卫生宏系统                    |
 **I**                            |                               |
 immutable                        | 不可变的                      |
 implement                        | 实现                          |
-implicit                         | 隐式，不明确                  |
+implicit                         | 隐式                          |
 implicit discriminator           | 隐式的辨别值                  |
 implicit type conversion         | 隐式类型转换                  |
 in assignment                    | 在赋值（语句）                |
@@ -111,7 +111,7 @@ index                            | 索引                          | 英语复�
 infer                            | 推导（动词）                  |
 inference                        | 推导（名词）                  |
 inheritance                      | 继承                          |
-integrated development <br>environment(IDE) | 集成开发环境       | 中文著作中通常写直接写 IDE
+integrated development <br>environment(IDE) | 集成开发环境       | 中文著作中通常直接写成 IDE
 "integration-style" tests        | 集成测试                      |
 installer                        | 安装程序，安装器              |
 instance                         | 实例                          |
@@ -154,6 +154,7 @@ mutiple patterns                 | 多重模式                      |
 **N**                            |                               |
 Nightly Rust                     | Rust 开发版                   | nightly本意是“每夜，每天晚上”，<br>指代码每天都更新
 non-copy type                    | 非复制类型                    |
+non-generic                      | 非泛型                        |
 no-op                            |                               | (此词出现在类型转换章节中）
 non-scalar cast                  | 非标量转换                    |
 notation                         | 符号，记号                    |
@@ -164,7 +165,7 @@ overflow                         | 溢出，越界                    |
 ownership                        | 所有权                        |
 **P**                            |                               |
 package manager                  | 包管理器，软件包管理器        |
-parameter                        | 参量                          |
+parameter                        | 参量，形参，形式参量          | 不严格区分的话， argument（参数）和 <br> parameter（参量）可以互换地使用
 parametric polymorphism          | 参数多态                      |
 parentheses                      | 小括号，包括“(”和“)”          |
 parse                            | 语法分析器                    |
