@@ -257,5 +257,7 @@ variable shadowing               | 变量隐藏，变量覆盖，变量隐蔽  |
 variable capture                 | 变量捕获                      |
 vector                           | （不译）                      | vector 本义是“向量”
 vtable                           | 虚函数表                      |
+**Y**                            |                               |
+yield                            | 产生(收益、效益等)，产出，提供|
 **Z**                            |                               |
 zero-cost abstractions           | 零开销抽象                    |
