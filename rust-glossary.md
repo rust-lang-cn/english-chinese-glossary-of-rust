@@ -98,6 +98,7 @@ guard                            | 守卫                          |
 **H**                            |                               |
 hash                             | 哈希，哈希值，散列            |
 hash map                         | 散列映射，哈希表              |
+hierarchy                        | 层次，分层，层次结构          |
 hygiene                          | 卫生                          |
 hygienic macro system            | 卫生宏系统                    |
 **I**                            |                               |
@@ -119,6 +120,7 @@ instance method                  | 实例方法                      |
 integer                          | 整型，整数                    |
 interior mutability              | 内部可变性                    |
 intrinsic                        | 固有的                        |
+item                             | 项，条目，项目                |
 iterate                          | 重复                          |
 iteration                        | 迭代                          |
 iterator                         | 迭代器                        |
@@ -145,6 +147,7 @@ metaprogramming                  | 元编程                        |
 metavariable                     | 元变量                        |
 method call syntax               | 方法调用语法                  |
 method chaining                  | 方法链                        |
+modifier                         | 修饰语                        |
 module                           | 模块                          |
 monomorphization                 | 单态                          | mono: one, morph: form
 move semantics                   | 移动语义                      |
@@ -256,6 +259,7 @@ variable binding                 | 变量绑定                      |
 variable shadowing               | 变量隐藏，变量覆盖，变量隐蔽  |
 variable capture                 | 变量捕获                      |
 vector                           | （不译）                      | vector 本义是“向量”
+visibility                       | 可见性                        |
 vtable                           | 虚函数表                      |
 **Y**                            |                               |
 yield                            | 产生(收益、效益等)，产出，提供|
