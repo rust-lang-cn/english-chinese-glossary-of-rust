@@ -74,6 +74,7 @@ documentation                    | 文档                          |
 dot operator                     | 点运算符                      |
 dynamic language                 | 动态类型语言                  |
 **E**                            |                               |
+encapsulation                    | 封装                          |
 exhaustiveness checking          | 穷尽性检查，无遗漏检查        |
 expression                       | 表达式                        |
 expression-oriented language     | 面向表达式的语言              |
@@ -82,7 +83,9 @@ explicit discriminator           | 显式的辨别值                  |
 explicit type conversion         | 显式类型转换                  |
 extension                        | 扩展名                        |
 **F**                            |                               |
+field                            | 字段                          |
 field-level mutability           | 字段级别可变性                |
+file                             | 文件                          |
 floating-point number            | 浮点数                        |
 flow control                     | 流程控制                      |
 fragment specifier               | 片段分类符                    |
@@ -155,6 +158,7 @@ mutable                          | 可变                          |
 mutable reference                | 可变引用                      |
 mutiple patterns                 | 多重模式                      |
 **N**                            |                               |
+nest                             | 嵌套                          |
 Nightly Rust                     | Rust 开发版                   | nightly本意是“每夜，每天晚上”，<br>指代码每天都更新
 non-copy type                    | 非复制类型                    |
 non-generic                      | 非泛型                        |
@@ -203,6 +207,8 @@ scope                            | 作用域，时间域                |
 screen                           | 屏幕                          |
 script                           | 脚本                          |
 semicolon                        | 分号，“;”                     |
+self                             | 自身，作关键字时不译          |
+shadowing                        | 隐藏，覆盖                    |
 slice                            | 切片                          |
 source file                      | 源文件                        |
 source code                      | 源代码                        |
@@ -218,6 +224,7 @@ string literal                   | 字符串常量                    |
 string slices                    | 字符串片段                    |
 subscript notation               | 下标                          |
 sugar                            | 糖                            |
+super                            | 父级，作关键字时不译          |
 syntax context                   | 语法上下文                    |
 systems programming language     | 系统级编程语言                |
 **T**                            |                               |
@@ -252,7 +259,7 @@ unit-like struct                 | 类单元结构体                  |
 unit test                        | 单元测试                      |
 unit type                        | 单元类型                      |
 uninstall                        | 卸载                          |
-universal function call syntax <br>(UFCS)  | 通用函数调用语法  |
+universal function call syntax <br>(UFCS)  | 通用函数调用语法    |
 unsized types                    | 不定长类型                    |
 **V**                            |                               |
 variable binding                 | 变量绑定                      |
