@@ -33,6 +33,7 @@ bound                            | 限定                          |
 buffer                           | 缓冲，缓冲区，缓冲器，缓存    |
 builder pattern                  |  创建者模式                   |
 **C**                            |                               |
+call                             | 调用                          |
 caller                           | 调用者                        |
 capture                          | 捕获                          |
 cargo                            | (Rust 软件包管理器，不译)     | 该词作名词时意思是“货物”，<br>作动词时意思是“装载货物”
@@ -44,11 +45,14 @@ chaining method call             | 链式方法调用                  |
 channel                          | 通道                          |
 closure                          | 闭包                          |
 coercion                         | 强制类型转换，强制转换        | coercion 原意是“强制，胁迫”
-comiler                          | 编译器                        |
-compiler intrinsics              | 编译器固有功能                |
 command                          | 命令                          |
 command line                     | 命令行                        |
 comment                          | 注释                          |
+compile                          | 编译（动词）                  |
+compilation                      | 编译（名词）                  |
+compilation                      | 编译单元                      |
+compiler                         | 编译器                        |
+compiler intrinsics              | 编译器固有功能                |
 concurrency                      | 并发                          |
 configuration                    | 配置                          |
 constructor                      | 构造器                        |
@@ -59,6 +63,7 @@ custom type                      | 自定义类型                    |
 **D**                            |                               |
 dangling pointer                 | 悬垂指针                      | use after free 在释放后使用
 data race                        | 数据竞争                      |
+dead code                        | 死代码，无效代码，不可达代码  |
 deallocate                       | 释放                          |
 declare                          | 声明                          |
 dependency                       | 依赖                          |
@@ -82,6 +87,7 @@ explicit                         | 显式                          |
 explicit discriminator           | 显式的辨别值                  |
 explicit type conversion         | 显式类型转换                  |
 extension                        | 扩展名                        |
+extern                           | 外，外部                      | 作关键字时不译
 **F**                            |                               |
 field                            | 字段                          |
 field-level mutability           | 字段级别可变性                |
@@ -110,6 +116,7 @@ implement                        | 实现                          |
 implicit                         | 隐式                          |
 implicit discriminator           | 隐式的辨别值                  |
 implicit type conversion         | 隐式类型转换                  |
+import                           | 导入                          |
 in assignment                    | 在赋值（语句）                |
 index                            | 索引                          | 英语复数形式：indices
 infer                            | 推导（动词）                  |
@@ -133,6 +140,7 @@ iterator invalidation            | 迭代器失效                    |
 library                          | 库                            |
 lifetimes                        | 生存时间，寿命，生命周期      |
 lifetime elision                 | 生命周期省略                  |
+link                             | 链接                          |
 linked-list                      | 链表                          |
 list                             | 表                            |
 literal                          | 数据，常量数据，字面值，字面量，<br>字面常量，字面上的 | 英文意思：字面意义的（内容）
@@ -174,6 +182,7 @@ ownership                        | 所有权                        |
 package manager                  | 包管理器，软件包管理器        |
 parameter                        | 参量，形参，形式参量          | 不严格区分的话， argument（参数）和 <br> parameter（参量）可以互换地使用
 parametric polymorphism          | 参数多态                      |
+parent scope                     | 父级作用域                    |
 parentheses                      | 小括号，包括“(”和“)”          |
 parse                            | 语法分析器                    |
 pattern                          | 模式                          |
