@@ -142,7 +142,7 @@ lifetimes                        | 生存时间，寿命，生命周期      |
 lifetime elision                 | 生命周期省略                  |
 link                             | 链接                          |
 linked-list                      | 链表                          |
-lint                             | （不译）                      | lint 英文本义是“纱布，绒毛”，<br>本来与计算机领域无关，<br> 此词在计算机领域于 1979 年<br>首次出现在 Unix 领域，在计算机领域中<br> lint 表示程序代码中可疑和<br>不具结构性的片段，参见[Wikipedia](https://en.wikipedia.org/wiki/Lint_%28software%29) |
+lint                             | （不译）                      | lint 英文本义是“纱布，绒毛”，此词在<br>计算机领域中表示程序代码中可疑和<br>不具结构性的片段，参见 [Wikipedia](https://en.wikipedia.org/wiki/Lint_%28software%29) |
 list                             | 表                            |
 literal                          | 数据，常量数据，字面值，字面量，<br>字面常量，字面上的 | 英文意思：字面意义的（内容）
 loop                             | 循环                          | 作关键字时不译
