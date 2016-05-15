@@ -25,7 +25,7 @@ Rust 语言相关术语中英文对照表，词汇来源:
 [rustonomicon]:https://doc.rust-lang.org/nomicon/
 [rust-by-example]:http://rustbyexample.com/
 [cnki]:http://dict.cnki.net/
-[google]:https://www.gogole.com/
+[google]:https://www.google.com/
 [wikipedia]:https://zh.wikipedia.org/wiki/
 
 ## 授权协议
