@@ -10,6 +10,7 @@ accumulator variable             | 累加器变量                    |
 ahead-of-time compiled           | 预编译                        |
 ahead-of-time compiled language  | 预编译语言                    |
 alias                            | 别名                          |
+angle brackets                   | 尖括号“&lt;”和“&gt;”          |
 annotate                         | 标注，注解（动词）            |
 annotation                       | 标注，注解（名词）            |
 anonymity                        | 匿名                          |
@@ -30,6 +31,7 @@ binary excutable                 | 二进制的可执行文件            |
 block                            | 语句块，代码块                |
 borrowing                        | 借用                          |
 bound                            | 限定                          |
+brace                            | 大括号，“{”或“}”              |
 buffer                           | 缓冲，缓冲区，缓冲器，缓存    |
 builder pattern                  |  创建者模式                   |
 **C**                            |                               |
@@ -54,6 +56,7 @@ compilation                      | 编译单元                      |
 compiler                         | 编译器                        |
 compiler intrinsics              | 编译器固有功能                |
 concurrency                      | 并发                          |
+conditional compilation          | 条件编译                      |
 configuration                    | 配置                          |
 constructor                      | 构造器                        |
 consumer                         | 消费者                        |
@@ -224,6 +227,7 @@ slice                            | 切片                          |
 source file                      | 源文件                        |
 source code                      | 源代码                        |
 square                           | 平方，二次方，二次幂          |
+square brackets                  | 中括号“[”和“]”                |
 src                              | （一般不译）                  | source 的缩写，指源代码
 statement                        |  语句                         |
 statically allocated             | 静态分配                      |
@@ -260,6 +264,7 @@ type annotation                  | 类型标注                      |
 type erasure                     | 类型清除                      |
 type inference                   | 类型推导                      |
 type inference engine            | 类型推导引擎                  |
+type parameter                   | 类型参量                      |
 type placeholder                 | 类型占位符                    |
 type signature                   | 类型标记                      |
 **U**                            |                               |
