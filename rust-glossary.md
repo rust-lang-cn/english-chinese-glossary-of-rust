@@ -251,10 +251,10 @@ testsuit                         | 测试套件                      |
 the least significant bit (LSB)  | 最低数字位                    |
 the most significant bit (MSB)   | 最高数字位                    |
 TOML                             | （不译）                      | Tom's Obvious, Minimal Language <br>的缩写，一种配置语言
-trait                            | （不译）                      | 其字面上有“特征，特性”之意，不作翻译
+trait                            | （不译）                      | 其字面上有“特性，特征”之意，不作翻译
 trait bound                      | trait 限定                    | bound 有“限制，限定，极限”之意
 trait object                     | trait 对象                    |
-transmute                        | （不译）                      | 其字面上有”变化，变形，变异”之意，<br>不作翻译
+transmute                        | （不译）                      | 其字面上有“变化，变形，变异”之意，<br>不作翻译
 trivial                          | 平凡的                        |
 troubleshooting                  | 疑难解答，故障诊断，<br>故障排除，故障分析 |
 tuple                            | 元组                          |
