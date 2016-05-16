@@ -29,5 +29,5 @@ Rust 语言相关术语中英文对照表，词汇来源:
 [wikipedia]:https://zh.wikipedia.org/wiki/
 
 ## 授权协议
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/) Rust 语言术语中英文对照表属于公有领域作品。
+[![CC0](https://licensebuttons.net/p/zero/1.0/80x15.png)](https://creativecommons.org/publicdomain/zero/1.0/) Rust 语言术语中英文对照表属于公有领域作品。
 
