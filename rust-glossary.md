@@ -38,7 +38,7 @@ builder pattern                  |  创建者模式                   |
 call                             | 调用                          |
 caller                           | 调用者                        |
 capture                          | 捕获                          |
-cargo                            | (Rust 软件包管理器，不译)     | 该词作名词时意思是“货物”，<br>作动词时意思是“装载货物”
+cargo                            | (Rust 包管理器，不译)         | 该词作名词时意思是“货物”，<br>作动词时意思是“装载货物”
 cargo-fy                         | Cargo 化，使用 Cargo 创建项目 |
 case analysis                    | 事例分析                      |
 cast                             | 类型转换，转型                |
@@ -281,7 +281,7 @@ unsized types                    | 不定长类型                    |
 variable binding                 | 变量绑定                      |
 variable shadowing               | 变量隐藏，变量覆盖，变量隐蔽  |
 variable capture                 | 变量捕获                      |
-vector                           | （不译）                      | vector 本义是“向量”
+vector                           | （动态数组，一般不译）        | vector 本义是“向量”
 visibility                       | 可见性                        |
 vtable                           | 虚函数表                      |
 **Y**                            |                               |
