@@ -10,7 +10,7 @@ accumulator variable             | 累加器变量                    |
 ahead-of-time compiled           | 预编译                        |
 ahead-of-time compiled language  | 预编译语言                    |
 alias                            | 别名                          |
-angle brackets                   | 尖括号“&lt;”和“&gt;”          |
+angle brackets                   | 尖括号，“&lt;”和“&gt;”        |
 annotate                         | 标注，注解（动词）            |
 annotation                       | 标注，注解（名词）            |
 anonymity                        | 匿名                          |
@@ -227,7 +227,7 @@ slice                            | 切片                          |
 source file                      | 源文件                        |
 source code                      | 源代码                        |
 square                           | 平方，二次方，二次幂          |
-square brackets                  | 中括号“[”和“]”                |
+square brackets                  | 中括号，“[”和“]”              |
 src                              | （一般不译）                  | source 的缩写，指源代码
 statement                        |  语句                         |
 statically allocated             | 静态分配                      |
@@ -279,7 +279,7 @@ universal function call syntax <br>(UFCS)  | 通用函数调用语法    |
 unsized types                    | 不定长类型                    |
 **V**                            |                               |
 variable binding                 | 变量绑定                      |
-variable shadowing               | 变量隐藏，变量覆盖，变量隐蔽  |
+variable shadowing               | 变量隐藏，变量覆盖，<br>变量隐蔽，变量屏蔽 |
 variable capture                 | 变量捕获                      |
 vector                           | （动态数组，一般不译）        | vector 本义是“向量”
 visibility                       | 可见性                        |
