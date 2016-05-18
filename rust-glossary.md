@@ -67,7 +67,7 @@ custom type                      | 自定义类型                    |
 dangling pointer                 | 悬垂指针                      | use after free 在释放后使用
 data race                        | 数据竞争                      |
 dead code                        | 死代码，无效代码，不可达代码  |
-deallocate                       | 释放                          |
+deallocate                       | 释放，重新分配                |
 declare                          | 声明                          |
 dependency                       | 依赖                          |
 deref coercions                  | 强制多态                      |
@@ -196,6 +196,7 @@ platform                         | 平台                          |
 polymorphism                     | 多态                          |
 powershell                       |（不译）                       | Windows 系统的一种命令行外壳程序<br>和脚本环境
 possibility of absence           | 不存在的可能性                |
+precede                          | 预先？，在...发生（或出现）   |
 prelude                          |（不译）                       | 预先导入模块，英文本意：序曲，前奏 
 primitive types                  | 原生类型，基本类型，简单类型  |
 print                            | 打印                          |
