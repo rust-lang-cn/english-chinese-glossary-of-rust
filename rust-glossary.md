@@ -30,7 +30,7 @@ binary                           | 二进制的                      |
 binary excutable                 | 二进制的可执行文件            |
 block                            | 语句块，代码块                |
 borrowing                        | 借用                          |
-bound                            | 限定                          |
+bound                            | 限定，约束                    |
 brace                            | 大括号，“{”或“}”              |
 buffer                           | 缓冲，缓冲区，缓冲器，缓存    |
 builder pattern                  |  创建者模式                   |
@@ -169,6 +169,7 @@ monomorphization                 | 单态                          | mono: one, 
 move semantics                   | 移动语义                      |
 mutable                          | 可变                          |
 mutable reference                | 可变引用                      |
+multiple bounds                  | 多重限定                      |
 mutiple patterns                 | 多重模式                      |
 **N**                            |                               |
 nest                             | 嵌套                          |
