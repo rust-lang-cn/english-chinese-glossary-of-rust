@@ -18,6 +18,7 @@ argument                         | 参数，实参，实际参数          | 不
 argument type                    | 参数类型                      |
 assignment                       | 赋值                          |
 associated functions             | 关联函数                      |
+associated items                 | 关联项                        |
 associated types                 | 关联类型                      |
 asterisk                         | 星号（\*)                     |
 attribute                        | 属性                          |
@@ -60,6 +61,8 @@ conditional compilation          | 条件编译                      |
 configuration                    | 配置                          |
 constructor                      | 构造器                        |
 consumer                         | 消费者                        |
+container                        | 容器                          |
+container type                   | 容器类型                      |
 crate                            | 包，包装箱                    | 一般不译
 curly braces                     | 大括号，包含“{”和“}”          |
 custom type                      | 自定义类型                    |
