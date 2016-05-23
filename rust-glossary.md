@@ -31,7 +31,7 @@ binary                           | 二进制的                      |
 binary excutable                 | 二进制的可执行文件            |
 block                            | 语句块，代码块                |
 borrowing                        | 借用                          |
-bound                            | 限定，约束                    |
+bound                            | 限定，约束，限制              | 此词和 constraint 意思相近，<br>constraint 在 C# 语言中翻译成“约束”
 brace                            | 大括号，“{”或“}”              |
 buffer                           | 缓冲，缓冲区，缓冲器，缓存    |
 builder pattern                  |  创建者模式                   |
@@ -106,6 +106,7 @@ function                         | 函数                          |
 function declaration             | 函数声明                      |
 **G**                            |                               |
 garbage collector                | 垃圾回收                      |
+generalize                       | 泛化，泛型化                  |
 generic                          | 泛型                          |
 generic type                     | 泛型类型                      |
 growable                         | 可增长的                      |
