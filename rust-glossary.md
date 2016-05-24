@@ -52,6 +52,7 @@ command                          | 命令                          |
 command line                     | 命令行                        |
 comment                          | 注释                          |
 compile                          | 编译（动词）                  |
+compile time                     | 编译期，编译期间，编译时      |
 compilation                      | 编译（名词）                  |
 compilation                      | 编译单元                      |
 compiler                         | 编译器                        |
@@ -63,7 +64,7 @@ constructor                      | 构造器                        |
 consumer                         | 消费者                        |
 container                        | 容器                          |
 container type                   | 容器类型                      |
-crate                            | 包，包装箱                    | 一般不译
+crate                            | 包，包装箱，装包              | 一般不译
 curly braces                     | 大括号，包含“{”和“}”          |
 custom type                      | 自定义类型                    |
 **D**                            |                               |
@@ -197,6 +198,7 @@ parentheses                      | 小括号，包括“(”和“)”          
 parse                            | 语法分析器                    |
 pattern                          | 模式                          |
 pattern matching                 | 模式匹配                      |
+phantom type                     | 幻象类型                      | phantom 相关的专有名词：<br>phantom bug 幻影指令<br>phantom power 幻象电源
 platform                         | 平台                          |
 polymorphism                     | 多态                          |
 powershell                       |（不译）                       | Windows 系统的一种命令行外壳程序<br>和脚本环境
@@ -217,6 +219,7 @@ reference                        | 引用                          |
 release                          | 发布                          |
 root directory                   | 根目录                        |
 runtime                          | 运行时                        |
+runtime behavior                 | 运行时行为                    |
 runtime overhead                 | 运行时开销                    |
 Rust                             | （不译）                      | 一种编程语言
 Rustacean                        | （不译）                      | 编写 Rust 的程序员或爱好者的通称
