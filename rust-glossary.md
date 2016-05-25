@@ -89,6 +89,7 @@ dynamic language                 | 动态类型语言                  |
 **E**                            |                               |
 encapsulation                    | 封装                          |
 equality test                    | 相等测试                      |
+elision                          | 省略                          |
 exhaustiveness checking          | 穷尽性检查，无遗漏检查        |
 expression                       | 表达式                        |
 expression-oriented language     | 面向表达式的语言              |
