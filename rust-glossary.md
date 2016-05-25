@@ -10,6 +10,7 @@ accumulator variable             | 累加器变量                    |
 ahead-of-time compiled           | 预编译                        |
 ahead-of-time compiled language  | 预编译语言                    |
 alias                            | 别名                          |
+aliasing                         | 别名占用                      |
 angle brackets                   | 尖括号，“&lt;”和“&gt;”        |
 annotate                         | 标注，注解（动词）            |
 annotation                       | 标注，注解（名词）            |
@@ -87,6 +88,7 @@ dot operator                     | 点运算符                      |
 dynamic language                 | 动态类型语言                  |
 **E**                            |                               |
 encapsulation                    | 封装                          |
+equality test                    | 相等测试                      |
 exhaustiveness checking          | 穷尽性检查，无遗漏检查        |
 expression                       | 表达式                        |
 expression-oriented language     | 面向表达式的语言              |
@@ -103,6 +105,7 @@ floating-point number            | 浮点数                        |
 flow control                     | 流程控制                      |
 fragment specifier               | 片段分类符                    |
 free variables                   | 自由变量                      |
+freeze                           | 冻结                          |
 function                         | 函数                          |
 function declaration             | 函数声明                      |
 **G**                            |                               |
@@ -171,7 +174,9 @@ method chaining                  | 方法链                        |
 modifier                         | 修饰语                        |
 module                           | 模块                          |
 monomorphization                 | 单态                          | mono: one, morph: form
+move                             | 移动，转移                    |
 move semantics                   | 移动语义                      |
+mutability                       | 可变性                        |
 mutable                          | 可变                          |
 mutable reference                | 可变引用                      |
 multiple bounds                  | 多重限定                      |
@@ -226,7 +231,7 @@ Rustacean                        | （不译）                      | 编写 Ru
 rustc                            | （不译）                      | Rust 语言编译器
 r-value                          | 右值                          |
 **S**                            |                               |
-scope                            | 作用域，时间域                |
+scope                            | 作用域                        |
 screen                           | 屏幕                          |
 script                           | 脚本                          |
 semicolon                        | 分号，“;”                     |
