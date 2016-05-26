@@ -10,7 +10,7 @@ accumulator variable             | 累加器变量                    |
 ahead-of-time compiled           | 预编译                        |
 ahead-of-time compiled language  | 预编译语言                    |
 alias                            | 别名                          |
-aliasing                         | 别名占用                      |
+aliasing                         | 别名使用                      | 参见 [Wikipedia](https://en.wikipedia.org/wiki/Pointer_aliasing)
 angle brackets                   | 尖括号，“&lt;”和“&gt;”        |
 annotate                         | 标注，注解（动词）            |
 annotation                       | 标注，注解（名词）            |
@@ -204,7 +204,7 @@ parentheses                      | 小括号，包括“(”和“)”          
 parse                            | 语法分析器                    |
 pattern                          | 模式                          |
 pattern matching                 | 模式匹配                      |
-phantom type                     | 幻象类型                      | phantom 相关的专有名词：<br>phantom bug 幻影指令<br>phantom power 幻象电源
+phantom type                     | 虚位类型                      | phantom 相关的专有名词：<br>phantom bug 幻影指令<br>phantom power 幻象电源<br>参见：[Haskell](https://wiki.haskell.org/Phantom_type)、[Haskell/Phantom_type](https://en.wikibooks.org/wiki/Haskell/Phantom_types)、<br>[Rust/Phantom](http://rustwiki.org/rust-by-example/generics/phantom.html)、[stdlib/PhantomData](https://doc.rust-lang.org/std/marker/struct.PhantomData.html)
 platform                         | 平台                          |
 polymorphism                     | 多态                          |
 powershell                       |（不译）                       | Windows 系统的一种命令行外壳程序<br>和脚本环境
