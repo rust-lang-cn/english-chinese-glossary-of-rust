@@ -78,6 +78,7 @@ dependency                       | 依赖                          |
 deref coercions                  | 强制多态                      |
 dereference                      | 解引用                        |
 derive                           | 派生                          |
+destructor                       | 析构器，析构函数              |
 destructring                     | 解构，解构赋值                |
 device drive                     | 设备驱动                      |
 directory                        | 目录                          |
@@ -119,6 +120,7 @@ guard                            | 守卫                          |
 **H**                            |                               |
 hash                             | 哈希，哈希值，散列            |
 hash map                         | 散列映射，哈希表              |
+heap                             | 堆                            |
 hierarchy                        | 层次，分层，层次结构          |
 hygiene                          | 卫生                          |
 hygienic macro system            | 卫生宏系统                    |
@@ -166,6 +168,8 @@ main function                    | main 函数，主函数             |
 macros                           | 宏                            |
 map                              | 映射                          | 一般不译
 match guards                     | 匹配守卫                      |
+memory                           | 内存                          |
+memory leak                      | 内存泄露                      |
 meta                             | 原则，元                      |
 metadata                         | 元数据                        |
 metaprogramming                  | 元编程                        |
@@ -194,6 +198,7 @@ notation                         | 符号，记号                    |
 obtimization                     | 优化                          |
 out-of-bounds accessing          | 越界访问                      |
 overflow                         | 溢出，越界                    |
+own                              | 占有，拥有                    |
 ownership                        | 所有权                        |
 **P**                            |                               |
 package manager                  | 包管理器，软件包管理器        |
@@ -217,12 +222,14 @@ procedural macros                | 宏程序                        |
 project                          | 项目，工程                    |
 prototype                        | 原型                          |
 **R**                            |                               |
-RAII                             | 源获取即初始化（一般不译）    | Resource Acquisition Is Initialization 的缩写
+RAII                             | 资源获取即初始化（一般不译）  | Resource Acquisition Is Initialization 的缩写
 range                            | 区间，范围                    |
 raw pointer                      | 原始指针，裸指针              |
 recursive macro                  | 递归宏                        |
 reference                        | 引用                          |
 release                          | 发布                          |
+resource                         | 资源                          |
+resource leak                    | 资源泄露                      |
 root directory                   | 根目录                        |
 runtime                          | 运行时                        |
 runtime behavior                 | 运行时行为                    |
@@ -244,7 +251,8 @@ source code                      | 源代码                        |
 square                           | 平方，二次方，二次幂          |
 square brackets                  | 中括号，“[”和“]”              |
 src                              | （一般不译）                  | source 的缩写，指源代码
-statement                        |  语句                         |
+stack                            | 栈                            |
+statement                        | 语句                          |
 statically allocated             | 静态分配                      |
 statically allocated string      | 静态分配的字符串              |
 statically dispatched            | 静态分发                      |
