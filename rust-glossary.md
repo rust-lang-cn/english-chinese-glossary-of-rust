@@ -1,6 +1,5 @@
 # Rust 语言术语中英文对照表
 
-
 English 英文                     | Chinese 中文                  | Note 备注
 -------------------------------  |-----------------------------  |----------
 **A**                            |                               |
@@ -33,6 +32,8 @@ binary excutable                 | 二进制的可执行文件            |
 block                            | 语句块，代码块                |
 borrowing                        | 借用                          |
 bound                            | 限定，约束，限制              | 此词和 constraint 意思相近，<br>constraint 在 C# 语言中翻译成“约束”
+box                              | 箱子，盒子，装箱类型          | 一般不译
+boxed                            | 装箱                          |
 brace                            | 大括号，“{”或“}”              |
 buffer                           | 缓冲，缓冲区，缓冲器，缓存    |
 builder pattern                  |  创建者模式                   |
@@ -65,6 +66,7 @@ constructor                      | 构造器                        |
 consumer                         | 消费者                        |
 container                        | 容器                          |
 container type                   | 容器类型                      |
+copy                             | 复制，拷贝                    |
 crate                            | 包，包装箱，装包              | 一般不译
 curly braces                     | 大括号，包含“{”和“}”          |
 custom type                      | 自定义类型                    |
@@ -179,7 +181,7 @@ method chaining                  | 方法链                        |
 modifier                         | 修饰语                        |
 module                           | 模块                          |
 monomorphization                 | 单态                          | mono: one, morph: form
-move                             | 移动，转移                    |
+move                             | 移动，转移                    | 按照 Rust 所规定的内容，<br>英语单词 transfer 的意思<br>比 move 更贴合实际描述<br>参考：[Rust by Example](http://rustwiki.org/rust-by-example/scope/move.html)
 move semantics                   | 移动语义                      |
 mutability                       | 可变性                        |
 mutable                          | 可变                          |
@@ -199,6 +201,7 @@ obtimization                     | 优化                          |
 out-of-bounds accessing          | 越界访问                      |
 overflow                         | 溢出，越界                    |
 own                              | 占有，拥有                    |
+owner                            | 所有者，拥有者                |
 ownership                        | 所有权                        |
 **P**                            |                               |
 package manager                  | 包管理器，软件包管理器        |
@@ -255,7 +258,7 @@ stack                            | 栈                            |
 statement                        | 语句                          |
 statically allocated             | 静态分配                      |
 statically allocated string      | 静态分配的字符串              |
-statically dispatched            | 静态分发                      |
+statically dispatch              | 静态分发                      |
 static mathod                    | 静态方法                      |
 string                           | 字符串                        |
 string literal                   | 字符串常量                    |
