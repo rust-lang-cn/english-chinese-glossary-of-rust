@@ -80,6 +80,7 @@ dependency                       | 依赖                          |
 deref coercions                  | 强制多态                      |
 dereference                      | 解引用                        |
 derive                           | 派生                          |
+destruction                      | 销毁，毁灭                    |
 destructor                       | 析构器，析构函数              |
 destructring                     | 解构，解构赋值                |
 device drive                     | 设备驱动                      |
