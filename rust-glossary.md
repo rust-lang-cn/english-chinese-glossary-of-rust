@@ -30,6 +30,7 @@ benchmark                        | 基准                          |
 binary                           | 二进制的                      |
 binary excutable                 | 二进制的可执行文件            |
 block                            | 语句块，代码块                |
+borrweer                         | 借入者                        |
 borrowing                        | 借用                          |
 bound                            | 限定，约束，限制              | 此词和 constraint 意思相近，<br>constraint 在 C# 语言中翻译成“约束”
 box                              | 箱子，盒子，装箱类型          | 一般不译
@@ -154,6 +155,7 @@ iterator                         | 迭代器                        |
 iterator adaptors                | 迭代器适配器                  |
 iterator invalidation            | 迭代器失效                    |
 **L**                            |                               |
+lender                           | 借出者                        |
 library                          | 库                            |
 lifetimes                        | 生存时间，寿命，生命周期      |
 lifetime elision                 | 生命周期省略                  |
