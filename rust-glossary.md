@@ -11,8 +11,8 @@ ahead-of-time compiled language  | 预编译语言                    |
 alias                            | 别名                          |
 aliasing                         | 别名使用                      | 参见 [Wikipedia](https://en.wikipedia.org/wiki/Pointer_aliasing)
 angle brackets                   | 尖括号，“&lt;”和“&gt;”        |
-annotate                         | 标注，注解（动词）            |
-annotation                       | 标注，注解（名词）            |
+annotate                         | 标注，注明（动词）            |
+annotation                       | 标注，注明（名词）            |
 anonymity                        | 匿名                          |
 argument                         | 参数，实参，实际参数          | 不严格区分的话， argument（参数）和 <br> parameter（参量）可以互换地使用
 argument type                    | 参数类型                      |
@@ -51,6 +51,7 @@ chaining method call             | 链式方法调用                  |
 channel                          | 通道                          |
 closure                          | 闭包                          |
 coercion                         | 强制类型转换，强制转换        | coercion 原意是“强制，胁迫”
+comma                            | 逗号，“,”                     |
 command                          | 命令                          |
 command line                     | 命令行                        |
 comment                          | 注释                          |
@@ -67,6 +68,7 @@ constructor                      | 构造器                        |
 consumer                         | 消费者                        |
 container                        | 容器                          |
 container type                   | 容器类型                      |
+convert                          | 转换，转化，转                |
 copy                             | 复制，拷贝                    |
 crate                            | 包，包装箱，装包              | 一般不译
 curly braces                     | 大括号，包含“{”和“}”          |
@@ -149,6 +151,7 @@ instance method                  | 实例方法                      |
 integer                          | 整型，整数                    |
 interior mutability              | 内部可变性                    |
 intrinsic                        | 固有的                        |
+invoke                           | 调用                          |
 item                             | 项，条目，项目                |
 iterate                          | 重复                          |
 iteration                        | 迭代                          |
@@ -267,6 +270,7 @@ static mathod                    | 静态方法                      |
 string                           | 字符串                        |
 string literal                   | 字符串常量                    |
 string slices                    | 字符串片段                    |
+stringify                        | 字符串化                      |
 subscript notation               | 下标                          |
 sugar                            | 糖                            |
 super                            | 父级，作关键字时不译          |
@@ -281,6 +285,7 @@ testsuit                         | 测试套件                      |
 the least significant bit (LSB)  | 最低数字位                    |
 the most significant bit (MSB)   | 最高数字位                    |
 TOML                             | （不译）                      | Tom's Obvious, Minimal Language <br>的缩写，一种配置语言
+token tree                       | 令牌树？                      | 待进一步斟酌
 trait                            | （不译）                      | 其字面上有“特性，特征”之意，不作翻译
 trait bound                      | trait 限定                    | bound 有“限制，限定，极限”之意
 trait object                     | trait 对象                    |
