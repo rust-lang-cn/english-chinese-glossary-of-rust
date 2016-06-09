@@ -110,6 +110,7 @@ extern                           | 外，外部                      | 作关键
 field                            | 字段                          |
 field-level mutability           | 字段级别可变性                |
 file                             | 文件                          |
+formatter                        | 格式化程序，格式化工具，格式器|
 floating-point number            | 浮点数                        |
 flow control                     | 流程控制                      |
 fragment specifier               | 片段分类符                    |
@@ -134,6 +135,7 @@ hygienic macro system            | 卫生宏系统                    |
 **I**                            |                               |
 immutable                        | 不可变的                      |
 implement                        | 实现                          |
+implementor                      | 实现者                        |
 implicit                         | 隐式                          |
 implicit discriminator           | 隐式的辨别值                  |
 implicit type conversion         | 隐式类型转换                  |
@@ -159,6 +161,7 @@ iterator                         | 迭代器                        |
 iterator adaptors                | 迭代器适配器                  |
 iterator invalidation            | 迭代器失效                    |
 **L**                            |                               |
+LHS                              | 左操作数                      | left-hand side 的非正式缩写，<br>与 RHS 相对
 lender                           | 借出者                        |
 library                          | 库                            |
 lifetimes                        | 生存时间，寿命，生命周期      |
@@ -185,6 +188,7 @@ metaprogramming                  | 元编程                        |
 metavariable                     | 元变量                        |
 method call syntax               | 方法调用语法                  |
 method chaining                  | 方法链                        |
+method definition                | 方法定义                      |
 modifier                         | 修饰语                        |
 module                           | 模块                          |
 monomorphization                 | 单态                          | mono: one, morph: form
@@ -201,6 +205,7 @@ Nightly Rust                     | Rust 开发版                   | nightly本
 non-copy type                    | 非复制类型                    |
 non-generic                      | 非泛型                        |
 no-op                            |                               | (此词出现在类型转换章节中）
+non-commutative                  | 非交换的                      |
 non-scalar cast                  | 非标量转换                    |
 notation                         | 符号，记号                    |
 **O**                            |                               |
@@ -240,6 +245,7 @@ reference                        | 引用                          |
 release                          | 发布                          |
 resource                         | 资源                          |
 resource leak                    | 资源泄露                      |
+RHS                              | 右操作数                      | right-hand side 的非正式缩写，<br>与 LHS 相对
 root directory                   | 根目录                        |
 runtime                          | 运行时                        |
 runtime behavior                 | 运行时行为                    |
@@ -255,6 +261,7 @@ script                           | 脚本                          |
 semicolon                        | 分号，“;”                     |
 self                             | 自身，作关键字时不译          |
 shadowing                        | 隐藏，覆盖                    |
+signature                        | 标记                          |
 slice                            | 切片                          |
 source file                      | 源文件                        |
 source code                      | 源代码                        |
