@@ -51,6 +51,7 @@ chaining method call             | 链式方法调用                  |
 channel                          | 通道                          |
 closure                          | 闭包                          |
 coercion                         | 强制类型转换，强制转换        | coercion 原意是“强制，胁迫”
+combinator                       | 组合算子                      |
 comma                            | 逗号，“,”                     |
 command                          | 命令                          |
 command line                     | 命令行                        |
@@ -110,6 +111,7 @@ extern                           | 外，外部                      | 作关键
 field                            | 字段                          |
 field-level mutability           | 字段级别可变性                |
 file                             | 文件                          |
+fmt                              | 格式化，是 format 的缩写      |
 formatter                        | 格式化程序，格式化工具，格式器|
 floating-point number            | 浮点数                        |
 flow control                     | 流程控制                      |
@@ -127,6 +129,7 @@ generic type                     | 泛型类型                      |
 growable                         | 可增长的                      |
 guard                            | 守卫                          |
 **H**                            |                               |
+handle error                     | 句柄错误                      |
 hash                             | 哈希，哈希值，散列            |
 hash map                         | 散列映射，哈希表              |
 heap                             | 堆                            |
