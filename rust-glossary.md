@@ -271,7 +271,7 @@ source file                      | 源文件                        |
 source code                      | 源代码                        |
 square                           | 平方，二次方，二次幂          |
 square brackets                  | 中括号，“[”和“]”              |
-src                              | （一般不译）                  | source 的缩写，指源代码
+src                              | （不译）                      | source 的缩写，指源代码
 stack                            | 栈                            |
 statement                        | 语句                          |
 statically allocated             | 静态分配                      |
