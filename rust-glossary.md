@@ -155,6 +155,7 @@ installer                        | 安装程序，安装器              |
 instance                         | 实例                          |
 instance method                  | 实例方法                      |
 integer                          | 整型，整数                    |
+interact                         | 相互作用，相互影响            |
 interior mutability              | 内部可变性                    |
 intrinsic                        | 固有的                        |
 invoke                           | 调用                          |
