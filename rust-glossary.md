@@ -48,7 +48,7 @@ case analysis                    | 事例分析                      |
 cast                             | 类型转换，转型                |
 casting                          | 类型转换                      |
 chaining method call             | 链式方法调用                  |
-channel                          | 通道                          |
+channel                          | 信道，通道                    |
 closure                          | 闭包                          |
 coercion                         | 强制类型转换，强制转换        | coercion 原意是“强制，胁迫”
 combinator                       | 组合算子                      |
@@ -296,6 +296,7 @@ testing                          | 测试                          |
 testsuit                         | 测试套件                      |
 the least significant bit (LSB)  | 最低数字位                    |
 the most significant bit (MSB)   | 最高数字位                    |
+thread                           | 线程                          |
 TOML                             | （不译）                      | Tom's Obvious, Minimal Language <br>的缩写，一种配置语言
 token tree                       | 令牌树？                      | 待进一步斟酌
 trait                            | （不译）                      | 其字面上有“特性，特征”之意，不作翻译
