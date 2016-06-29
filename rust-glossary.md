@@ -238,6 +238,7 @@ precede                          | 预先？，在...发生（或出现）   |
 prelude                          |（不译）                       | 预先导入模块，英文本意：序曲，前奏 
 primitive types                  | 原生类型，基本类型，简单类型  |
 print                            | 打印                          |
+process                          | 进程                          |
 procedural macros                | 宏程序                        |
 project                          | 项目，工程                    |
 prototype                        | 原型                          |
@@ -260,6 +261,7 @@ Rustacean                        | （不译）                      | 编写 Ru
 rustc                            | （不译）                      | Rust 语言编译器
 r-value                          | 右值                          |
 **S**                            |                               |
+schedule                         | 调度                          |
 scope                            | 作用域                        |
 screen                           | 屏幕                          |
 script                           | 脚本                          |
