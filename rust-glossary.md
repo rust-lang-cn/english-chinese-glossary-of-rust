@@ -41,6 +41,7 @@ builder pattern                  |  创建者模式                   |
 **C**                            |                               |
 call                             | 调用                          |
 caller                           | 调用者                        |
+capacity                         | 容器                          |
 capture                          | 捕获                          |
 cargo                            | (Rust 包管理器，不译)         | 该词作名词时意思是“货物”，<br>作动词时意思是“装载货物”
 cargo-fy                         | Cargo 化，使用 Cargo 创建项目 |
@@ -311,7 +312,7 @@ tuple                            | 元组                          |
 two's complement                 | 补码，二补数                  |
 two-word object                  | 双字对象                      |
 type annotation                  | 类型标注                      |
-type erasure                     | 类型清除                      |
+type erasure                     | 类型擦除                      |
 type inference                   | 类型推导                      |
 type inference engine            | 类型推导引擎                  |
 type parameter                   | 类型参量                      |
