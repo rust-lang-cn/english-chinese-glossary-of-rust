@@ -34,7 +34,7 @@ borrweer                         | 借入者                        |
 borrowing                        | 借用                          |
 bound                            | 限定，约束，限制              | 此词和 constraint 意思相近，<br>constraint 在 C# 语言中翻译成“约束”
 box                              | 箱子，盒子，装箱类型          | 一般不译
-boxed                            | 装箱                          |
+boxed                            | 装箱，装包                    |
 brace                            | 大括号，“{”或“}”              |
 buffer                           | 缓冲，缓冲区，缓冲器，缓存    |
 builder pattern                  |  创建者模式                   |
