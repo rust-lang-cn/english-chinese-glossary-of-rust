@@ -333,11 +333,13 @@ unwrap                           | 解包                          | 暂译！
 variable binding                 | 变量绑定                      |
 variable shadowing               | 变量隐藏，变量覆盖，<br>变量隐蔽，变量屏蔽 |
 variable capture                 | 变量捕获                      |
+variant                          | 变量                          |
 vector                           | （动态数组，一般不译）        | vector 本义是“向量”
 visibility                       | 可见性                        |
 vtable                           | 虚函数表                      |
 **W**                            |                               |
 wrap                             | 包裹                          | 暂译！
+wrapped                          | 装包                          |
 **Y**                            |                               |
 yield                            | 产生(收益、效益等)，产出，提供|
 **Z**                            |                               |
