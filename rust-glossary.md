@@ -116,6 +116,7 @@ fmt                              | 格式化，是 format 的缩写      |
 formatter                        | 格式化程序，格式化工具，格式器|
 floating-point number            | 浮点数                        |
 flow control                     | 流程控制                      |
+Foreign Function Interface（FFI）| 外部语言函数接口              |
 fragment specifier               | 片段分类符                    |
 free variables                   | 自由变量                      |
 freeze                           | 冻结                          |
@@ -340,6 +341,7 @@ vtable                           | 虚函数表                      |
 **W**                            |                               |
 wrap                             | 包裹                          | 暂译！
 wrapped                          | 装包                          |
+wrapper                          | 装包                          |
 **Y**                            |                               |
 yield                            | 产生(收益、效益等)，产出，提供|
 **Z**                            |                               |
