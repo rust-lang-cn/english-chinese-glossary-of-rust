@@ -122,6 +122,7 @@ free variables                   | 自由变量                      |
 freeze                           | 冻结                          |
 function                         | 函数                          |
 function declaration             | 函数声明                      |
+functional                       | 函数式                        |
 **G**                            |                               |
 garbage collector                | 垃圾回收                      |
 generalize                       | 泛化，泛型化                  |
