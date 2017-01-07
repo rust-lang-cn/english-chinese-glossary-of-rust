@@ -52,7 +52,7 @@ chaining method call             | 链式方法调用                  |
 channel                          | 信道，通道                    |
 closure                          | 闭包                          |
 coercion                         | 强制类型转换，强制转换        | coercion 原意是“强制，胁迫”
-combinator                       | 组合算子                      |
+combinator                       | 组合算子，组合器              |
 comma                            | 逗号，“,”                     |
 command                          | 命令                          |
 command line                     | 命令行                        |
