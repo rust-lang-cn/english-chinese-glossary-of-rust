@@ -229,7 +229,8 @@ parameter                        | 参量，形参，形式参量          | 不
 parametric polymorphism          | 参数多态                      |
 parent scope                     | 父级作用域                    |
 parentheses                      | 小括号，包括“(”和“)”          |
-parse                            | 语法分析器                    |
+parse                            | 分析，解析                    |
+parser                           | （语法）分析器，解析器        |
 pattern                          | 模式                          |
 pattern matching                 | 模式匹配                      |
 phantom type                     | 虚位类型                      | phantom 相关的专有名词：<br>phantom bug 幻影指令<br>phantom power 幻象电源<br>参见：[Haskell](https://wiki.haskell.org/Phantom_type)、[Haskell/Phantom_type](https://en.wikibooks.org/wiki/Haskell/Phantom_types)、<br>[Rust/Phantom](http://rustwiki.org/rust-by-example/generics/phantom.html)、[stdlib/PhantomData](https://doc.rust-lang.org/std/marker/struct.PhantomData.html)
