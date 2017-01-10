@@ -63,6 +63,7 @@ compilation                      | 编译（名词）                  |
 compilation                      | 编译单元                      |
 compiler                         | 编译器                        |
 compiler intrinsics              | 编译器固有功能                |
+compound                         | 复合（类型，数据）            |
 concurrency                      | 并发                          |
 conditional compilation          | 条件编译                      |
 configuration                    | 配置                          |
@@ -88,7 +89,7 @@ derive                           | 派生                          |
 designator                       | 指示符                        |
 destruction                      | 销毁，毁灭                    |
 destructor                       | 析构器，析构函数              |
-destructring                     | 解构，解构赋值                |
+destructuring                    | 解构，解构赋值                |
 device drive                     | 设备驱动                      |
 directory                        | 目录                          |
 dispatch                         | 分发                          |
@@ -265,6 +266,7 @@ Rustacean                        | （不译）                      | 编写 Ru
 rustc                            | （不译）                      | Rust 语言编译器
 r-value                          | 右值                          |
 **S**                            |                               |
+scalar                           | 标量，数量                    |
 schedule                         | 调度                          |
 scope                            | 作用域                        |
 screen                           | 屏幕                          |
