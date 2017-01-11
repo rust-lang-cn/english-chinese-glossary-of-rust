@@ -52,6 +52,7 @@ chaining method call             | 链式方法调用                  |
 channel                          | 信道，通道                    |
 closure                          | 闭包                          |
 coercion                         | 强制类型转换，强制转换        | coercion 原意是“强制，胁迫”
+collection                       | 集合                          | 参见 [Wikipedia](https://zh.wikipedia.org/wiki/%E9%9B%86%E5%90%88_(%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6)) |
 combinator                       | 组合算子，组合器              |
 comma                            | 逗号，“,”                     |
 command                          | 命令                          |
@@ -90,6 +91,7 @@ designator                       | 指示符                        |
 destruction                      | 销毁，毁灭                    |
 destructor                       | 析构器，析构函数              |
 destructuring                    | 解构，解构赋值                |
+desugar                          | 脱糖                          |
 device drive                     | 设备驱动                      |
 directory                        | 目录                          |
 dispatch                         | 分发                          |
