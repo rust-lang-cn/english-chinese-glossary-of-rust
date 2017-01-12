@@ -335,6 +335,7 @@ unit type                        | 单元类型                      |
 uninstall                        | 卸载                          |
 universal function call syntax <br>(UFCS)  | 通用函数调用语法    |
 unsized types                    | 不定长类型                    |
+unwind                           | 展开                          |
 unwrap                           | 解包                          | 暂译！
 **V**                            |                               |
 variable binding                 | 变量绑定                      |
