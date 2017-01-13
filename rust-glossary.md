@@ -130,7 +130,7 @@ functional                       | 函数式                        |
 garbage collector                | 垃圾回收                      |
 generalize                       | 泛化，泛型化                  |
 generator                        | 生成器                        |
-generic                          | 泛型                          |
+generics                         | 泛型                          |
 generic type                     | 泛型类型                      |
 growable                         | 可增长的                      |
 guard                            | 守卫                          |
