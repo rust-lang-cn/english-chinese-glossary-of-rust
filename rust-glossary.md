@@ -61,7 +61,7 @@ comment                          | 注释                          |
 compile                          | 编译（动词）                  |
 compile time                     | 编译期，编译期间，编译时      |
 compilation                      | 编译（名词）                  |
-compilation                      | 编译单元                      |
+compilation unit                 | 编译单元                      |
 compiler                         | 编译器                        |
 compiler intrinsics              | 编译器固有功能                |
 compound                         | 复合（类型，数据）            |
