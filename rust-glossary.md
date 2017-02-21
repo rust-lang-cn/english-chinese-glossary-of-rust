@@ -30,7 +30,7 @@ benchmark                        | 基准                          |
 binary                           | 二进制的                      |
 binary excutable                 | 二进制的可执行文件            |
 block                            | 语句块，代码块                |
-borrweer                         | 借入者                        |
+borrower                         | 借用者，借入者                |
 borrowing                        | 借用                          |
 bound                            | 限定，约束，限制              | 此词和 constraint 意思相近，<br>constraint 在 C# 语言中翻译成“约束”
 box                              | 箱子，盒子，装箱类型          | 一般不译
