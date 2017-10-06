@@ -2,8 +2,7 @@
 ## English-Chinese Glossary of the Rust Programming Language
 > 持续更新中...
 
-查看 [**Rust 术语表**][rust-glossary]。
-[rust-glossary]:./rust-glossary.md
+查看 [**Rust 术语表**](rust-glossary.md)。
 
 Rust 语言相关术语中英文对照表，词汇来源:  
 主要是 [The Rust Programming Language][rust-book]、[The Rust Reference][reference]、[Standard Library API Reference][rust-std]、[The Rustonomicon][rustonomicon] 和 [Rust by Example][rust-by-example] 出现的计算机术语（不局限于 Rust 语言）汇总。

@@ -29,7 +29,9 @@ baroque macro                    | 巴洛克宏                      |
 benchmark                        | 基准                          |
 binary                           | 二进制的                      |
 binary excutable                 | 二进制的可执行文件            |
+bind                             | 绑定                          |
 block                            | 语句块，代码块                |
+boolean                          | 布尔型，布尔值                |
 borrower                         | 借用者，借入者                |
 borrowing                        | 借用                          |
 bound                            | 限定，约束，限制              | 此词和 constraint 意思相近，<br>constraint 在 C# 语言中翻译成“约束”
@@ -37,7 +39,8 @@ box                              | 箱子，盒子，装箱类型          | 一
 boxed                            | 装箱，装包                    |
 brace                            | 大括号，“{”或“}”              |
 buffer                           | 缓冲，缓冲区，缓冲器，缓存    |
-builder pattern                  |  创建者模式                   |
+build                            | 构建                          |
+builder pattern                  | 创建者模式                    |
 **C**                            |                               |
 call                             | 调用                          |
 caller                           | 调用者                        |
@@ -219,6 +222,7 @@ no-op                            |                               | (此词出现
 non-commutative                  | 非交换的                      |
 non-scalar cast                  | 非标量转换                    |
 notation                         | 符号，记号                    |
+numeric                          | 数值，数字                    |
 **O**                            |                               |
 obtimization                     | 优化                          |
 out-of-bounds accessing          | 越界访问                      |
@@ -228,6 +232,7 @@ owner                            | 所有者，拥有者                |
 ownership                        | 所有权                        |
 **P**                            |                               |
 package manager                  | 包管理器，软件包管理器        |
+panic                            | （不译）                      | 此单词直接翻译是“恐慌”
 parameter                        | 参量，形参，形式参量          | 不严格区分的话， argument（参数）和 <br> parameter（参量）可以互换地使用
 parametric polymorphism          | 参数多态                      |
 parent scope                     | 父级作用域                    |
@@ -278,6 +283,7 @@ self                             | 自身，作关键字时不译          |
 shadowing                        | 隐藏，覆盖                    |
 signature                        | 标记                          |
 slice                            | 切片                          |
+snake case                       | 蛇形命名                      | 参见：[Snake case](https://en.wikipedia.org/wiki/Snake_case)
 source file                      | 源文件                        |
 source code                      | 源代码                        |
 square                           | 平方，二次方，二次幂          |
@@ -353,3 +359,4 @@ wrapper                          | 装包                          |
 yield                            | 产生(收益、效益等)，产出，提供|
 **Z**                            |                               |
 zero-cost abstractions           | 零开销抽象                    |
+zero-width space(ZWSP)           | 零宽空格                      |
