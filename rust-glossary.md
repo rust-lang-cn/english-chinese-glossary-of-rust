@@ -260,6 +260,7 @@ RAII                             | 资源获取即初始化（一般不译）  |
 range                            | 区间，范围                    |
 raw identifier                   | 原始标识符                    |
 raw pointer                      | 原始指针，裸指针              |
+Reader                           | 读取器                        |
 recursive macro                  | 递归宏                        |
 reference                        | 引用                          |
 release                          | 发布                          |
