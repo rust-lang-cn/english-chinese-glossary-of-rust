@@ -34,7 +34,7 @@ block                            | 语句块，代码块                |
 boolean                          | 布尔型，布尔值                |
 borrower                         | 借用者，借入者                |
 borrowing                        | 借用                          |
-bound                            | 限定，约束，限制              | 此词和 constraint 意思相近，<br>constraint 在 C# 语言中翻译成“约束”
+bound                            | 约束，限定，限制              | 此词和 constraint 意思相近，<br>constraint 在 C# 语言中翻译成“约束”
 box                              | 箱子，盒子，装箱类型          | 一般不译
 boxed                            | 装箱，装包                    |
 brace                            | 大括号，“{”或“}”              |
@@ -211,7 +211,7 @@ move semantics                   | 移动语义                      |
 mutability                       | 可变性                        |
 mutable                          | 可变                          |
 mutable reference                | 可变引用                      |
-multiple bounds                  | 多重限定                      |
+multiple bounds                  | 多重约束                      |
 mutiple patterns                 | 多重模式                      |
 **N**                            |                               |
 nest                             | 嵌套                          |
@@ -316,7 +316,7 @@ thread                           | 线程                          |
 TOML                             | （不译）                      | Tom's Obvious, Minimal Language <br>的缩写，一种配置语言
 token tree                       | 令牌树？                      | 待进一步斟酌
 trait                            | （不译）                      | 其字面上有“特性，特征”之意，不作翻译
-trait bound                      | trait 限定                    | bound 有“限制，限定，极限”之意
+trait bound                      | trait 约束                    | bound 有“约束，限制，限定”之意
 trait object                     | trait 对象                    |
 transmute                        | （不译）                      | 其字面上有“变化，变形，变异”之意，<br>不作翻译
 trivial                          | 平凡的                        |
