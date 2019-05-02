@@ -352,6 +352,7 @@ vector                           | （动态数组，一般不译）        | ve
 visibility                       | 可见性                        |
 vtable                           | 虚函数表                      |
 **W**                            |                               |
+where clause                     | where 子句，where 从句，where 分句 | 在数据库的官方手册中多翻译成“子句”，英语语法中翻译成“从句”
 wrap                             | 包裹                          | 暂译！
 wrapped                          | 装包                          |
 wrapper                          | 装包                          |
