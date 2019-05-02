@@ -345,7 +345,7 @@ unwind                           | 展开                          |
 unwrap                           | 解包                          | 暂译！
 **V**                            |                               |
 variable binding                 | 变量绑定                      |
-variable shadowing               | 变量遮蔽，变量隐蔽,<br>变量隐藏，<br>变量覆盖 |
+variable shadowing               | 变量遮蔽，变量隐蔽,<br>变量隐藏，变量覆盖 |
 variable capture                 | 变量捕获                      |
 variant                          | 变量                          |
 vector                           | （动态数组，一般不译）        | vector 本义是“向量”
