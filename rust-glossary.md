@@ -35,8 +35,9 @@ boolean                          | 布尔型，布尔值                |
 borrower                         | 借用者，借入者                |
 borrowing                        | 借用                          |
 bound                            | 约束，限定，限制              | 此词和 constraint 意思相近，<br>constraint 在 C# 语言中翻译成“约束”
-box                              | 箱子，盒子，装箱类型          | 一般不译
+box                              | 箱子，盒子，装箱类型          | 一般不译，作动词时翻译成“装箱”
 boxed                            | 装箱，装包                    |
+boxing                           | 装箱，装包                    |
 brace                            | 大括号，“{”或“}”              |
 buffer                           | 缓冲，缓冲区，缓冲器，缓存    |
 build                            | 构建                          |
@@ -241,7 +242,7 @@ parse                            | 分析，解析                    |
 parser                           | （语法）分析器，解析器        |
 pattern                          | 模式                          |
 pattern matching                 | 模式匹配                      |
-phantom type                     | 虚位类型                      | phantom 相关的专有名词：<br>phantom bug 幻影指令<br>phantom power 幻象电源<br>参见：[Haskell](https://wiki.haskell.org/Phantom_type)、[Haskell/Phantom_type](https://en.wikibooks.org/wiki/Haskell/Phantom_types)、<br>[Rust/Phantom](http://rustwiki.org/rust-by-example/generics/phantom.html)、[stdlib/PhantomData](https://doc.rust-lang.org/std/marker/struct.PhantomData.html)
+phantom type                     | 虚类型，虚位类型              | phantom 相关的专有名词：<br>phantom bug 幻影指令<br>phantom power 幻象电源<br>参见：[Haskell](https://wiki.haskell.org/Phantom_type)、[Haskell/Phantom_type](https://en.wikibooks.org/wiki/Haskell/Phantom_types)、<br>[Rust/Phantom](http://rustwiki.org/rust-by-example/generics/phantom.html)、[stdlib/PhantomData](https://doc.rust-lang.org/std/marker/struct.PhantomData.html)
 platform                         | 平台                          |
 polymorphism                     | 多态                          |
 powershell                       |（不译）                       | Windows 系统的一种命令行外壳程序<br>和脚本环境
@@ -257,6 +258,7 @@ prototype                        | 原型                          |
 **R**                            |                               |
 RAII                             | 资源获取即初始化（一般不译）  | Resource Acquisition Is Initialization 的缩写
 range                            | 区间，范围                    |
+raw identifier                   | 原始标识符                    |
 raw pointer                      | 原始指针，裸指针              |
 recursive macro                  | 递归宏                        |
 reference                        | 引用                          |
