@@ -219,7 +219,7 @@ nest                             | 嵌套                          |
 Nightly Rust                     | Rust 开发版                   | nightly本意是“每夜，每天晚上”，<br>指代码每天都更新
 non-copy type                    | 非复制类型                    |
 non-generic                      | 非泛型                        |
-no-op                            |                               | (此词出现在类型转换章节中）
+no-op                            | 空操作，空运算                | (此词出现在类型转换章节中）
 non-commutative                  | 非交换的                      |
 non-scalar cast                  | 非标量转换                    |
 notation                         | 符号，记号                    |
