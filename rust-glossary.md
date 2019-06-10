@@ -252,7 +252,7 @@ prelude                          |（不译）                       | 预先导
 primitive types                  | 原生类型，基本类型，简单类型  |
 print                            | 打印                          |
 process                          | 进程                          |
-procedural macros                | 宏程序                        |
+procedural macros                | 过程宏，程序宏                |
 project                          | 项目，工程                    |
 prototype                        | 原型                          |
 **R**                            |                               |
