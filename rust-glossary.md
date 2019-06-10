@@ -297,7 +297,7 @@ statement                        | 语句                          |
 statically allocated             | 静态分配                      |
 statically allocated string      | 静态分配的字符串              |
 statically dispatch              | 静态分发                      |
-static mathod                    | 静态方法                      |
+static method                    | 静态方法                      |
 string                           | 字符串                        |
 string literal                   | 字符串常量                    |
 string slices                    | 字符串片段                    |
