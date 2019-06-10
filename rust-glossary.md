@@ -204,7 +204,7 @@ metavariable                     | 元变量                        |
 method call syntax               | 方法调用语法                  |
 method chaining                  | 方法链                        |
 method definition                | 方法定义                      |
-modifier                         | 修饰语                        |
+modifier                         | 修饰符                        |
 module                           | 模块                          |
 monomorphization                 | 单态                          | mono: one, morph: form
 move                             | 移动，转移                    | 按照 Rust 所规定的内容，<br>英语单词 transfer 的意思<br>比 move 更贴合实际描述<br>参考：[Rust by Example](http://rustwiki.org/rust-by-example/scope/move.html)
