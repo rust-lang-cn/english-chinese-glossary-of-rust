@@ -225,7 +225,7 @@ non-scalar cast                  | 非标量转换                    |
 notation                         | 符号，记号                    |
 numeric                          | 数值，数字                    |
 **O**                            |                               |
-obtimization                     | 优化                          |
+optimization                     | 优化                          |
 out-of-bounds accessing          | 越界访问                      |
 overflow                         | 溢出，越界                    |
 own                              | 占有，拥有                    |
