@@ -353,7 +353,7 @@ variable capture                 | 变量捕获                      |
 variant                          | 变量                          |
 vector                           | （动态数组，一般不译）        | vector 本义是“向量”
 visibility                       | 可见性                        |
-vtable                           | 虚函数表                      |
+vtable                           | 虚表                          |
 **W**                            |                               |
 where clause                     | where 子句，where 从句，where 分句 | 在数据库的官方手册中多翻译成“子句”，英语语法中翻译成“从句”
 wrap                             | 包裹                          | 暂译！
