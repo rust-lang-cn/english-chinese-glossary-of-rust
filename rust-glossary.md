@@ -4,6 +4,7 @@ English 英文                     | Chinese 中文                  | Note 备�
 -------------------------------  |-----------------------------  |----------
 **A**                            |                               |
 Abstract Syntax Tree             | 抽象语法树                    |
+ABI                              | 应用程序二进制接口            | Application Binary Interface 缩写
 accumulator                      | 累加器                        |
 accumulator variable             | 累加器变量                    |
 ahead-of-time compiled           | 预编译                        |
@@ -13,6 +14,7 @@ aliasing                         | 别名使用                      | 参见 [W
 angle brackets                   | 尖括号，“&lt;”和“&gt;”        |
 annotate                         | 标注，注明（动词）            |
 annotation                       | 标注，注明（名词）            |
+ARC                              | 原子引用计数器                | Atomic Referecne Counter
 anonymity                        | 匿名                          |
 argument                         | 参数，实参，实际参数          | 不严格区分的话， argument（参数）和 <br> parameter（参量）可以互换地使用
 argument type                    | 参数类型                      |
@@ -21,6 +23,7 @@ associated functions             | 关联函数                      |
 associated items                 | 关联项                        |
 associated types                 | 关联类型                      |
 asterisk                         | 星号（\*)                     |
+atomic                           | 原子的                        |
 attribute                        | 属性                          |
 automated building               | 自动构建                      |
 automated test                   | 自动测试，自动化测试          |
@@ -32,10 +35,11 @@ binary excutable                 | 二进制的可执行文件            |
 bind                             | 绑定                          |
 block                            | 语句块，代码块                |
 boolean                          | 布尔型，布尔值                |
+borrow check                     | 借用检查                      |
 borrower                         | 借用者，借入者                |
 borrowing                        | 借用                          |
 bound                            | 约束，限定，限制              | 此词和 constraint 意思相近，<br>constraint 在 C# 语言中翻译成“约束”
-box                              | 箱子，盒子，装箱类型          | 一般不译，作动词时翻译成“装箱”
+box                              | 箱子，盒子，装箱类型          | 一般不译，作动词时翻译成“装箱”，<br>具有所有权的智能指针
 boxed                            | 装箱，装包                    |
 boxing                           | 装箱，装包                    |
 brace                            | 大括号，“{”或“}”              |
@@ -78,7 +82,7 @@ container                        | 容器                          |
 container type                   | 容器类型                      |
 convert                          | 转换，转化，转                |
 copy                             | 复制，拷贝                    |
-crate                            | 包，包装箱，装包              | 一般不译
+crate                            | 包，包装箱，装包              | 一般不译，crate 是 Rust 的基本编译单元
 curly braces                     | 大括号，包含“{”和“}”          |
 custom type                      | 自定义类型                    |
 **D**                            |                               |
@@ -89,20 +93,24 @@ deallocate                       | 释放，重新分配                |
 declare                          | 声明                          |
 dependency                       | 依赖                          |
 deref coercions                  | 强制多态                      |
-dereference                      | 解引用                        |
+dereference                      | 解引用                        | Rust  文章中有时简写为 Deref
 derive                           | 派生                          |
 designator                       | 指示符                        |
 destruction                      | 销毁，毁灭                    |
 destructor                       | 析构器，析构函数              |
+destructure                      | 解构                          |
 destructuring                    | 解构，解构赋值                |
 desugar                          | 脱糖                          |
+diverge function                 | 发散函数                      |
 device drive                     | 设备驱动                      |
 directory                        | 目录                          |
 dispatch                         | 分发                          |
 diverging functions              | 发散函数                      |
 documentation                    | 文档                          |
 dot operator                     | 点运算符                      |
+DST                              | 动态大小类型                  | dynamic sized type，一般不译，<br>使用英文缩写形式
 dynamic language                 | 动态类型语言                  |
+dynamic trait type               | 动态 trait 类型               |
 **E**                            |                               |
 encapsulation                    | 封装                          |
 equality test                    | 相等测试                      |
@@ -116,6 +124,8 @@ explicit type conversion         | 显式类型转换                  |
 extension                        | 扩展名                        |
 extern                           | 外，外部                      | 作关键字时不译
 **F**                            |                               |
+fat pointer                      | 胖指针                        |
+feature gate                     | 功能开关                      |
 field                            | 字段                          |
 field-level mutability           | 字段级别可变性                |
 file                             | 文件                          |
@@ -134,7 +144,7 @@ functional                       | 函数式                        |
 garbage collector                | 垃圾回收                      |
 generalize                       | 泛化，泛型化                  |
 generator                        | 生成器                        |
-generics                         | 泛型                          |
+genericf                         | 泛型                          |
 generic type                     | 泛型类型                      |
 growable                         | 可增长的                      |
 guard                            | 守卫                          |
@@ -144,9 +154,13 @@ hash                             | 哈希，哈希值，散列            |
 hash map                         | 散列映射，哈希表              |
 heap                             | 堆                            |
 hierarchy                        | 层次，分层，层次结构          |
+higher rank lifetime             | 高阶生命周期                  |
+higher rank trait bound          | 高阶 trait 约束               |
+higher tank type                 | 高阶类型                      |
 hygiene                          | 卫生                          |
 hygienic macro system            | 卫生宏系统                    |
 **I**                            |                               |
+ICE                              | 编译内部错误                  | internal comppiler error 的缩写
 immutable                        | 不可变的                      |
 implement                        | 实现                          |
 implementor                      | 实现者                        |
@@ -158,9 +172,11 @@ in assignment                    | 在赋值（语句）                |
 index                            | 索引                          | 英语复数形式：indices
 infer                            | 推导（动词）                  |
 inference                        | 推导（名词）                  |
+inherited mutability             | 承袭可变性                    |
 inheritance                      | 继承                          |
 integrated development <br>environment(IDE) | 集成开发环境       | 中文著作中通常直接写成 IDE
-"integration-style" tests        | 集成测试                      |
+integration-style test           | 集成测试                      |
+interior mutablity               | 内部可变性                    |
 installer                        | 安装程序，安装器              |
 instance                         | 实例                          |
 instance method                  | 实例方法                      |
@@ -179,24 +195,26 @@ iterator invalidation            | 迭代器失效                    |
 LHS                              | 左操作数                      | left-hand side 的非正式缩写，<br>与 RHS 相对
 lender                           | 借出者                        |
 library                          | 库                            |
-lifetimes                        | 生存时间，寿命，生命周期      |
+lifetime                         | 生存时间，寿命，生命周期      |
 lifetime elision                 | 生命周期省略                  |
 link                             | 链接                          |
 linked-list                      | 链表                          |
 lint                             | （不译）                      | lint 英文本义是“纱布，绒毛”，此词在<br>计算机领域中表示程序代码中可疑和<br>不具结构性的片段，参见 [Wikipedia](https://en.wikipedia.org/wiki/Lint_%28software%29) |
 list                             | 表                            |
 literal                          | 数据，常量数据，字面值，字面量，<br>字面常量，字面上的 | 英文意思：字面意义的（内容）
+LLVM                             | （不译）                      | Low Level Virtual Machine 的缩写，<br>是构建编译器的系统
 loop                             | 循环                          | 作关键字时不译
 low-level code                   | 底层代码                      |
 low-level language               | 底层语言                      |
 l-value                          | 左值                          |
 **M**                            |                               |
 main function                    | main 函数，主函数             |
-macros                           | 宏                            |
+macro                            | 宏                            |
 map                              | 映射                          | 一般不译
-match guards                     | 匹配守卫                      |
+match guard                      | 匹配守卫                      |
 memory                           | 内存                          |
 memory leak                      | 内存泄露                      |
+memory safe                      | 内存安全                      |
 meta                             | 原则，元                      |
 metadata                         | 元数据                        |
 metaprogramming                  | 元编程                        |
@@ -217,6 +235,7 @@ mutiple patterns                 | 多重模式                      |
 **N**                            |                               |
 nest                             | 嵌套                          |
 Nightly Rust                     | Rust 开发版                   | nightly本意是“每夜，每天晚上”，<br>指代码每天都更新
+NLL                              | 非词法生命周期                | non lexecal lifetime 的缩写，<br>一般不译
 non-copy type                    | 非复制类型                    |
 non-generic                      | 非泛型                        |
 no-op                            | 空操作，空运算                | (此词出现在类型转换章节中）
@@ -227,13 +246,14 @@ numeric                          | 数值，数字                    |
 **O**                            |                               |
 optimization                     | 优化                          |
 out-of-bounds accessing          | 越界访问                      |
+orphan rule                      | 孤儿规则                      |
 overflow                         | 溢出，越界                    |
 own                              | 占有，拥有                    |
 owner                            | 所有者，拥有者                |
 ownership                        | 所有权                        |
 **P**                            |                               |
 package manager                  | 包管理器，软件包管理器        |
-panic                            | （不译）                      | 此单词直接翻译是“恐慌”
+panic                            | （不译）                      | 此单词直接翻译是“恐慌”，<br>在 Rust 中用于不可恢复的错误处理
 parameter                        | 参量，形参，形式参量          | 不严格区分的话， argument（参数）和 <br> parameter（参量）可以互换地使用
 parametric polymorphism          | 参数多态                      |
 parent scope                     | 父级作用域                    |
@@ -241,7 +261,7 @@ parentheses                      | 小括号，包括“(”和“)”          
 parse                            | 分析，解析                    |
 parser                           | （语法）分析器，解析器        |
 pattern                          | 模式                          |
-pattern matching                 | 模式匹配                      |
+pattern match                    | 模式匹配                      |
 phantom type                     | 虚类型，虚位类型              | phantom 相关的专有名词：<br>phantom bug 幻影指令<br>phantom power 幻象电源<br>参见：[Haskell](https://wiki.haskell.org/Phantom_type)、[Haskell/Phantom_type](https://en.wikibooks.org/wiki/Haskell/Phantom_types)、<br>[Rust/Phantom](http://rustwiki.org/rust-by-example/generics/phantom.html)、[stdlib/PhantomData](https://doc.rust-lang.org/std/marker/struct.PhantomData.html)
 platform                         | 平台                          |
 polymorphism                     | 多态                          |
@@ -256,10 +276,12 @@ procedural macros                | 过程宏，程序宏                |
 project                          | 项目，工程                    |
 prototype                        | 原型                          |
 **R**                            |                               |
-RAII                             | 资源获取即初始化（一般不译）  | Resource Acquisition Is Initialization 的缩写
+race condition                   | 竞态条件                      |
+RAII                             | 资源获取即初始化（一般不译）  | resource acquisition is initialization 的缩写
 range                            | 区间，范围                    |
 raw identifier                   | 原始标识符                    |
 raw pointer                      | 原始指针，裸指针              |
+RC                               | 引用计数                      | reference counted
 Reader                           | 读取器                        |
 recursive macro                  | 递归宏                        |
 reference                        | 引用                          |
@@ -289,10 +311,12 @@ slice                            | 切片                          |
 snake case                       | 蛇形命名                      | 参见：[Snake case](https://en.wikipedia.org/wiki/Snake_case)
 source file                      | 源文件                        |
 source code                      | 源代码                        |
+specialization                   | 泛型特化                      |
 square                           | 平方，二次方，二次幂          |
 square brackets                  | 中括号，“[”和“]”              |
 src                              | （不译）                      | source 的缩写，指源代码
 stack                            | 栈                            |
+stack unwind                     | 栈中国                        |
 statement                        | 语句                          |
 statically allocated             | 静态分配                      |
 statically allocated string      | 静态分配的字符串              |
@@ -336,12 +360,12 @@ type placeholder                 | 类型占位符                    |
 type signature                   | 类型标记                      |
 **U**                            |                               |
 undefined behavior               | 未定义行为                    |
+uninstall                        | 卸载                          |
 unit-like struct                 | 类单元结构体                  |
  unit struct                     | 单元结构体                    |
 "unit-style" tests               | 单元测试                      |
 unit test                        | 单元测试                      |
 unit type                        | 单元类型                      |
-uninstall                        | 卸载                          |
 universal function call syntax <br>(UFCS)  | 通用函数调用语法    |
 unsized types                    | 不定长类型                    |
 unwind                           | 展开                          |
