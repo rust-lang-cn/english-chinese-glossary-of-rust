@@ -286,6 +286,7 @@ RC                               | 引用计数                      | reference
 Reader                           | 读取器                        |
 recursive macro                  | 递归宏                        |
 reference                        | 引用                          |
+reference cycle                  | 引用循环                      |
 release                          | 发布                          |
 resource                         | 资源                          |
 resource leak                    | 资源泄露                      |
