@@ -110,7 +110,7 @@ documentation                    | 文档                          |
 dot operator                     | 点运算符                      |
 DST                              | 动态大小类型                  | dynamic sized type，一般不译，<br>使用英文缩写形式
 dynamic language                 | 动态类型语言                  |
-dynamic trait type               | 动态 trait 类型               |
+dynamic trait type               | 动态特质类型               |
 **E**                            |                               |
 encapsulation                    | 封装                          |
 equality test                    | 相等测试                      |
@@ -155,7 +155,7 @@ hash map                         | 散列映射，哈希表              |
 heap                             | 堆                            |
 hierarchy                        | 层次，分层，层次结构          |
 higher rank lifetime             | 高阶生命周期                  |
-higher rank trait bound          | 高阶 trait 约束               |
+higher rank trait bound          | 高阶特质约束               |
 higher tank type                 | 高阶类型                      |
 hygiene                          | 卫生                          |
 hygienic macro system            | 卫生宏系统                    |
@@ -344,9 +344,9 @@ the most significant bit (MSB)   | 最高数字位                    |
 thread                           | 线程                          |
 TOML                             | （不译）                      | Tom's Obvious, Minimal Language <br>的缩写，一种配置语言
 token tree                       | 令牌树？                      | 待进一步斟酌
-trait                            | （不译）                      | 其字面上有“特性，特征”之意，不作翻译
-trait bound                      | trait 约束                    | bound 有“约束，限制，限定”之意
-trait object                     | trait 对象                    |
+trait                            | 特质                        | 其字面上有“特性，特征”之意
+trait bound                      | 特质约束                    | bound 有“约束，限制，限定”之意
+trait object                     | 特质对象                    |
 transmute                        | （不译）                      | 其字面上有“变化，变形，变异”之意，<br>不作翻译
 trivial                          | 平凡的                        |
 troubleshooting                  | 疑难解答，故障诊断，<br>故障排除，故障分析 |
