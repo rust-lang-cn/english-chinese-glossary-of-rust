@@ -344,7 +344,7 @@ the most significant bit (MSB)   | 最高数字位                    |
 thread                           | 线程                          |
 TOML                             | （不译）                      | Tom's Obvious, Minimal Language <br>的缩写，一种配置语言
 token tree                       | 令牌树？                      | 待进一步斟酌
-trait                            | 特质                        |
+trait                            | 特质                        | 其字面上有“特性，特征”之意
 trait bound                      | 特质约束                    | bound 有“约束，限制，限定”之意
 trait object                     | 特质对象                    |
 transmute                        | （不译）                      | 其字面上有“变化，变形，变异”之意，<br>不作翻译
