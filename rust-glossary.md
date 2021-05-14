@@ -1,7 +1,7 @@
 # Rust 语言术语中英文对照表
 
 English 英文                     | Chinese 中文                  | Note 备注
--------------------------------  |-----------------------------  |----------
+-------------------------------  |----------------------------- |----------
 **A**                            |                               |
 Abstract Syntax Tree             | 抽象语法树                    |
 ABI                              | 应用程序二进制接口            | Application Binary Interface 缩写
@@ -91,6 +91,7 @@ data race                        | 数据竞争                      |
 dead code                        | 死代码，无效代码，不可达代码  |
 deallocate                       | 释放，重新分配                |
 declare                          | 声明                          |
+deep copy                        | 深拷贝，深复制                |
 dependency                       | 依赖                          |
 deref coercions                  | 强制多态                      |
 dereference                      | 解引用                        | Rust  文章中有时简写为 Deref
@@ -112,6 +113,7 @@ DST                              | 动态大小类型                  | dynamic
 dynamic language                 | 动态类型语言                  |
 dynamic trait type               | 动态特质类型               |
 **E**                            |                               |
+enumeration                      | 枚举                          |
 encapsulation                    | 封装                          |
 equality test                    | 相等测试                      |
 elision                          | 省略                          |
@@ -200,7 +202,7 @@ lifetime elision                 | 生命周期省略                  |
 link                             | 链接                          |
 linked-list                      | 链表                          |
 lint                             | （不译）                      | lint 英文本义是“纱布，绒毛”，此词在<br>计算机领域中表示程序代码中可疑和<br>不具结构性的片段，参见 [Wikipedia](https://en.wikipedia.org/wiki/Lint_%28software%29) |
-list                             | 表                            |
+list                             | 列表                            |
 listener                         | 监听器                        |
 literal                          | 数据，常量数据，字面值，字面量，<br>字面常量，字面上的 | 英文意思：字面意义的（内容）
 LLVM                             | （不译）                      | Low Level Virtual Machine 的缩写，<br>是构建编译器的系统
@@ -280,6 +282,7 @@ prototype                        | 原型                          |
 race condition                   | 竞态条件                      |
 RAII                             | 资源获取即初始化（一般不译）  | resource acquisition is initialization 的缩写
 range                            | 区间，范围                    |
+range expression                 | 区间表达式                    |
 raw identifier                   | 原始标识符                    |
 raw pointer                      | 原始指针，裸指针              |
 RC                               | 引用计数                      | reference counted
@@ -307,7 +310,8 @@ screen                           | 屏幕                          |
 script                           | 脚本                          |
 semicolon                        | 分号，“;”                     |
 self                             | 自身，作关键字时不译          |
-shadowing                        | 遮敝，隐蔽，隐藏，覆盖        |
+shadow                           | 遮蔽，隐蔽，隐藏，覆盖        |
+shallow copy                     | 浅拷贝，浅复制                |
 signature                        | 标记                          |
 slice                            | 切片                          |
 snake case                       | 蛇形命名                      | 参见：[Snake case](https://en.wikipedia.org/wiki/Snake_case)
