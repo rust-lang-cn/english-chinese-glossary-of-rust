@@ -9,6 +9,7 @@ accumulator                      | 累加器                        |
 accumulator variable             | 累加器变量                    |
 ahead-of-time compiled           | 预编译                        |
 ahead-of-time compiled language  | 预编译语言                    |
+algebraic data types(ADT)        | 代数数据类型                  |
 alias                            | 别名                          |
 aliasing                         | 别名使用                      | 参见 [Wikipedia](https://en.wikipedia.org/wiki/Pointer_aliasing)
 angle brackets                   | 尖括号，“&lt;”和“&gt;”        |
