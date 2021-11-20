@@ -50,7 +50,7 @@ builder pattern                  | 创建者模式                    |
 **C**                            |                               |
 call                             | 调用                          |
 caller                           | 调用者                        |
-capacity                         | 容器                          |
+capacity                         | 容量                          |
 capture                          | 捕获                          |
 cargo                            | (Rust 包管理器，不译)         | 该词作名词时意思是“货物”，<br>作动词时意思是“装载货物”
 cargo-fy                         | Cargo 化，使用 Cargo 创建项目 |
