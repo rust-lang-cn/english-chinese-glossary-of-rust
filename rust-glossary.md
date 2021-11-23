@@ -94,7 +94,7 @@ deallocate                       | 释放，重新分配                |
 declare                          | 声明                          |
 deep copy                        | 深拷贝，深复制                |
 dependency                       | 依赖                          |
-deref coercions                  | 强制多态                      |
+deref coercions                  | 解引用强制转换                |
 dereference                      | 解引用                        | Rust  文章中有时简写为 Deref
 derive                           | 派生                          |
 designator                       | 指示符                        |
