@@ -138,7 +138,7 @@ floating-point number            | 浮点数                        |
 flow control                     | 流程控制                      |
 Foreign Function Interface（FFI）| 外部语言函数接口              |
 fragment specifier               | 片段分类符                    |
-free variables                   | 自由变量                      |
+free variable                    | 自由变量                      |
 freeze                           | 冻结                          |
 function                         | 函数                          |
 function declaration             | 函数声明                      |
@@ -331,7 +331,7 @@ statically dispatch              | 静态分发                      |
 static method                    | 静态方法                      |
 string                           | 字符串                        |
 string literal                   | 字符串常量                    |
-string slices                    | 字符串片段                    |
+string slice                     | 字符串片段                    |
 stringify                        | 字符串化                      |
 subscript notation               | 下标                          |
 sugar                            | 糖                            |
@@ -348,7 +348,7 @@ the least significant bit (LSB)  | 最低数字位                    |
 the most significant bit (MSB)   | 最高数字位                    |
 thread                           | 线程                          |
 TOML                             | （不译）                      | Tom's Obvious, Minimal Language <br>的缩写，一种配置语言
-token tree                       | 令牌树？                      | 待进一步斟酌
+token tree                       | 令牌树                      | 待进一步斟酌
 trait                            | 特质                        | 其字面上有“特性，特征”之意
 trait bound                      | 特质约束                    | bound 有“约束，限制，限定”之意
 trait object                     | 特质对象                    |
@@ -369,25 +369,26 @@ type signature                   | 类型标记                      |
 undefined behavior               | 未定义行为                    |
 uninstall                        | 卸载                          |
 unit-like struct                 | 类单元结构体                  |
- unit struct                     | 单元结构体                    |
+unit struct                      | 单元结构体                    |
 "unit-style" tests               | 单元测试                      |
 unit test                        | 单元测试                      |
 unit type                        | 单元类型                      |
 universal function call syntax <br>(UFCS)  | 通用函数调用语法    |
 unsized types                    | 不定长类型                    |
 unwind                           | 展开                          |
-unwrap                           | 解包                          | 暂译！
+unwrap                           | 解包                          |
 **V**                            |                               |
+variable                         | 变量                         |
 variable binding                 | 变量绑定                      |
 variable shadowing               | 变量遮蔽，变量隐蔽,<br>变量隐藏，变量覆盖 |
 variable capture                 | 变量捕获                      |
-variant                          | 变量                          |
+variant                          | 可变类型，变体                 |
 vector                           | （动态数组，一般不译）        | vector 本义是“向量”
 visibility                       | 可见性                        |
 vtable                           | 虚表                          |
 **W**                            |                               |
 where clause                     | where 子句，where 从句，where 分句 | 在数据库的官方手册中多翻译成“子句”，英语语法中翻译成“从句”
-wrap                             | 包裹                          | 暂译！
+wrap                             | 包裹                          |
 wrapped                          | 装包                          |
 wrapper                          | 装包                          |
 **Y**                            |                               |
