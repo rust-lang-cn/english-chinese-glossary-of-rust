@@ -258,7 +258,7 @@ ownership                        | 所有权                        |
 **P**                            |                               |
 package manager                  | 包管理器，软件包管理器        |
 panic                            | （不译）                      | 此单词直接翻译是“恐慌”，<br>在 Rust 中用于不可恢复的错误处理
-parameter                        | 参量，形参，形式参量          | 不严格区分的话， argument（参数）和 <br> parameter（参量）可以互换地使用
+parameter                        | 参量，参数，形参，形式参量（数）  | 不严格区分的话， argument（参数）和 <br> parameter（参量）可以互换地使用
 parametric polymorphism          | 参数多态                      |
 parent scope                     | 父级作用域                    |
 parentheses                      | 小括号，包括“(”和“)”          |
