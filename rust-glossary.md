@@ -13,8 +13,8 @@ algebraic data types(ADT)        | 代数数据类型                  |
 alias                            | 别名                          |
 aliasing                         | 别名使用                      | 参见 [Wikipedia](https://en.wikipedia.org/wiki/Pointer_aliasing)
 angle brackets                   | 尖括号，“&lt;”和“&gt;”        |
-annotate                         | 标注，注明（动词）            |
-annotation                       | 标注，注明（名词）            |
+annotate                         | 标注，注明，标记，标识（动词）    |
+annotation                       | 标注，注明，标记，标识（名词）    |
 ARC                              | 原子引用计数器                | Atomic Referecne Counter
 anonymity                        | 匿名                          |
 argument                         | 参数，实参，实际参数          | 不严格区分的话， argument（参数）和 <br> parameter（参量）可以互换地使用
@@ -358,7 +358,7 @@ troubleshooting                  | 疑难解答，故障诊断，<br>故障排�
 tuple                            | 元组                          |
 two's complement                 | 补码，二补数                  |
 two-word object                  | 双字对象                      |
-type annotation                  | 类型标注，类型注明             |
+type annotation                  | 类型标注，类型注明/标记/标识     |
 type erasure                     | 类型擦除                      |
 type inference                   | 类型推导                      |
 type inference engine            | 类型推导引擎                  |
