@@ -29,7 +29,7 @@ Rust 语言相关术语中英文对照表，词汇来源:
 欢迎提供更多的翻译参考来源 :-)
 
 [rust-book]:https://doc.rust-lang.org/book/
-[reference]:https://doc.rust-lang.org/reference.html
+[reference]:https://doc.rust-lang.org/reference/
 [rust-std]:https://doc.rust-lang.org/std/
 [rustonomicon]:https://doc.rust-lang.org/nomicon/
 [rust-by-example]:http://rustbyexample.com/
