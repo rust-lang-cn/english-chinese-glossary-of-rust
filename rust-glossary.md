@@ -15,7 +15,7 @@ aliasing                         | 别名使用                      | 参见 [W
 angle brackets                   | 尖括号，“&lt;”和“&gt;”        |
 annotate                         | 标注，注明，标记，标识（动词）    |
 annotation                       | 标注，注明，标记，标识（名词）    |
-ARC                              | 原子引用计数器                | Atomic Referecne Counter
+ARC                              | 原子引用计数器                | Atomic Reference Counter
 anonymity                        | 匿名                          |
 argument                         | 参数，实参，实际参数          | 不严格区分的话， argument（参数）和 <br> parameter（参量）可以互换地使用
 argument type                    | 参数类型                      |
@@ -163,7 +163,7 @@ higher tank type                 | 高阶类型                      |
 hygiene                          | 卫生                          |
 hygienic macro system            | 卫生宏系统                    |
 **I**                            |                               |
-ICE                              | 编译内部错误                  | internal comppiler error 的缩写
+ICE                              | 编译内部错误                  | internal compiler error 的缩写
 immutable                        | 不可变的                      |
 implement                        | 实现                          |
 implementor                      | 实现者                        |
