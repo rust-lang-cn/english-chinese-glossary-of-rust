@@ -29,7 +29,6 @@ attribute                        | 属性                          |
 automated building               | 自动构建                      |
 automated test                   | 自动测试，自动化测试          |
 **B**                            |                               |
-baroque macro                    | 巴洛克宏                      |
 benchmark                        | 基准                          |
 binary                           | 二进制的                      |
 binary executable                | 二进制的可执行文件            |
