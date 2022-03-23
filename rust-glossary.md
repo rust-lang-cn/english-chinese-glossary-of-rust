@@ -90,6 +90,7 @@ dangling pointer                 | 悬垂指针                      | use after
 data race                        | 数据竞争                      |
 dead code                        | 死代码，无效代码，不可达代码  |
 deallocate                       | 释放，重新分配                |
+declarative macro                | 声明宏                       | 参见 [Rust 程序设计语言](https://rustwiki.org/zh-CN/book/ch19-06-macros.html#%E4%BD%BF%E7%94%A8-macro_rules-%E7%9A%84%E5%A3%B0%E6%98%8E%E5%AE%8F%E7%94%A8%E4%BA%8E%E9%80%9A%E7%94%A8%E5%85%83%E7%BC%96%E7%A8%8B)
 declare                          | 声明                          |
 deep copy                        | 深拷贝，深复制                |
 dependency                       | 依赖                          |
