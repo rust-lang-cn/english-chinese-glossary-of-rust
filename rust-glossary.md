@@ -85,7 +85,7 @@ copy                             | 复制，拷贝                    |
 crate                            | 包，包装箱，装包              | 一般不译，crate 是 Rust 的基本编译单元
 curly braces                     | 大括号，包含“{”和“}”          |
 custom type                      | 自定义类型                    |
-Coherence                        ｜    连贯性                   ｜  理由是：实际上这个 Coherence 这个词在其相关 [RFC 2451](https://rust-lang.github.io/rfcs/2451-re-rebalancing-coherence.html) 中上下文语境中的意思是，让编译器推理特质更加流畅更加连贯，不要出错。所以“连贯性”更符合这个词在 Rust 中的本意。|
+Coherence                        |    连贯性                   | 理由是：实际上这个 Coherence 这个词在其相关 [RFC 2451](https://rust-lang.github.io/rfcs/2451-re-rebalancing-coherence.html) 中上下文语境中的意思是，让编译器推理特质更加流畅更加连贯，不要出错。所以“连贯性”更符合这个词在 Rust 中的本意。|
 **D**                            |                               |
 dangling pointer                 | 悬垂指针                      | use after free 在释放后使用
 data race                        | 数据竞争                      |
