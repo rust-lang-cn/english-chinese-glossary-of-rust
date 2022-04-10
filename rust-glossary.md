@@ -76,7 +76,7 @@ compound                         | 复合（类型，数据）            |
 concurrency                      | 并发                          |
 conditional compilation          | 条件编译                      |
 configuration                    | 配置                          |
-constructor                      | 构造器                        |
+constructor                      | 构造器，构造函数                        |
 consumer                         | 消费者                        |
 container                        | 容器                          |
 container type                   | 容器类型                      |
