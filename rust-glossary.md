@@ -227,6 +227,7 @@ metavariable                     | 元变量                        |
 method call syntax               | 方法调用语法                  |
 method chaining                  | 方法链                        |
 method definition                | 方法定义                      |
+mock object                      | 模拟对象                      | 
 modifier                         | 修饰符                        |
 module                           | 模块                          |
 monomorphization                 | 单态                          | mono: one, morph: form
@@ -345,6 +346,7 @@ target triple                    | 多层次指标，三层/重 指标/目标 | 
 terminal                         | 终端                          |
 testing                          | 测试                          |
 testsuit                         | 测试套件                      |
+test double                      | 测试替代                      |
 the least significant bit (LSB)  | 最低数字位                    |
 the most significant bit (MSB)   | 最高数字位                    |
 thread                           | 线程                          |
