@@ -333,7 +333,7 @@ statically dispatch              | 静态分发                      |
 static method                    | 静态方法                      |
 string                           | 字符串                        |
 string literal                   | 字符串常量                    |
-string slice                     | 字符串片段                    |
+string slice                     | 字符串切片                    |
 stringify                        | 字符串化                      |
 subscript notation               | 下标                          |
 sugar                            | 糖                            |
