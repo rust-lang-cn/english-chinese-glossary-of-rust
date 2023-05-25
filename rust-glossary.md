@@ -347,8 +347,8 @@ terminal                         | 终端                          |
 testing                          | 测试                          |
 testsuit                         | 测试套件                      |
 test double                      | 测试替代                      |
-the least significant bit (LSB)  | 最低数字位                    |
-the most significant bit (MSB)   | 最高数字位                    |
+the least significant bit (LSB)  | 最低有效位                    |
+the most significant bit (MSB)   | 最高有效位                    |
 thread                           | 线程                          |
 TOML                             | （不译）                      | Tom's Obvious, Minimal Language <br>的缩写，一种配置语言
 token tree                       | 令牌树                      | 待进一步斟酌
