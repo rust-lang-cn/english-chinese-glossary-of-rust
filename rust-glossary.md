@@ -271,6 +271,7 @@ pattern match                    | 模式匹配                      |
 phantom type                     | 虚类型，虚位类型              | phantom 相关的专有名词：<br>phantom bug 幻影指令<br>phantom power 幻象电源<br>参见：[Haskell](https://wiki.haskell.org/Phantom_type)、[Haskell/Phantom_type](https://en.wikibooks.org/wiki/Haskell/Phantom_types)、<br>[Rust/Phantom](http://rustwiki.org/rust-by-example/generics/phantom.html)、[stdlib/PhantomData](https://doc.rust-lang.org/std/marker/struct.PhantomData.html)
 platform                         | 平台                          |
 polymorphism                     | 多态                          |
+poison                           | 毒化                          |
 powershell                       |（不译）                       | Windows 系统的一种命令行外壳程序<br>和脚本环境
 possibility of absence           | 不存在的可能性                |
 precede                          | 预先？，在...发生（或出现）   |
