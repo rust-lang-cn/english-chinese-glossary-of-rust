@@ -160,7 +160,7 @@ heap                             | 堆                            |
 hierarchy                        | 层次，分层，层次结构          |
 higher rank lifetime             | 高阶生命周期                  |
 higher rank trait bound          | 高阶特质约束               |
-higher tank type                 | 高阶类型                      |
+higher rank type                 | 高阶类型                      |
 hygiene                          | 卫生                          |
 hygienic macro system            | 卫生宏系统                    |
 **I**                            |                               |
