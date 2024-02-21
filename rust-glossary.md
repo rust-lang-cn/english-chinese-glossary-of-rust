@@ -188,6 +188,7 @@ integer                          | 整型，整数                    |
 interact                         | 相互作用，相互影响            |
 interior mutability              | 内部可变性                    |
 intrinsic                        | 固有的                        |
+invariant                        | 不变的（与协变、逆变并列）；<br>保证（陈述一个应当被保持的条件）|
 invoke                           | 调用                          |
 item                             | 项，条目，项目                |
 iterate                          | 重复                          |
@@ -318,6 +319,8 @@ shallow copy                     | 浅拷贝，浅复制                |
 signature                        | 标记                          |
 slice                            | 切片                          |
 snake case                       | 蛇形命名                      | 参见：[Snake case](https://en.wikipedia.org/wiki/Snake_case)
+sound                            | 可靠                          |
+soundness                        | 可靠性                        | 参见：[Soundness](https://en.wikipedia.org/wiki/Soundness)
 source file                      | 源文件                        |
 source code                      | 源代码                        |
 specialization                   | 泛型特化                      |
