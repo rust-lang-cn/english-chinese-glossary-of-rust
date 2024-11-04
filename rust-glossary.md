@@ -7,6 +7,8 @@ Abstract Syntax Tree             | 抽象语法树                     | 抽象�
 ABI                              | 应用程序二进制接口             | 應用程式二進位介面           | Application Binary Interface 缩写
 accumulator                      | 累加器                         | 累加器                       |
 accumulator variable             | 累加器变量                     | 累加器變數                   |
+address (n.)                     | 地址                           | 位址                         |
+address (v.)                     | 寻址                           | 定址                         |
 ahead-of-time compiled           | 预编译                         | 預編譯                       |
 ahead-of-time compiled language  | 预编译语言                     | 預編譯語言                   |
 algebraic data types(ADT)        | 代数数据类型                   | 代數資料型別                 |
@@ -15,16 +17,19 @@ aliasing                         | 别名使用                       | 別名�
 angle brackets                   | 尖括号，“&lt;”和“&gt;”         | 尖括號，“&lt;”和“&gt;”       |
 annotate                         | 标注，注明，标记，标识（动词） | 標註，註明，標記，標示（動詞）    |
 annotation                       | 标注，注明，标记，标识（名词） | 標註，註明，標記，標示（名詞）    |
-ARC                              | 原子引用计数器                 | 原子參考計數器               | Atomic Reference Counter
+ARC                              | 原子引用计数器                 | 最小參考計數器               | Atomic Reference Counter
 anonymity                        | 匿名                           | 匿名                         |
 argument                         | 参数，实参，实际参数           | 引數，實參，實際參數，實際引數 | 不严格区分的话， argument（参数）和 <br> parameter（参量）可以互换地使用
 argument type                    | 参数类型                       | 引數型別                     |
+array                            | 数组                           | 陣列                         |
+assembler                        | 汇编器                         | 組譯器                       |
 assignment                       | 赋值                           | 賦值                         |
 associated functions             | 关联函数                       | 關聯函式                     |
 associated items                 | 关联项                         | 關聯項目                     |
 associated types                 | 关联类型                       | 關聯型別                     |
 asterisk                         | 星号（\*)                      | 星號（\*)                    |
-atomic                           | 原子的                         | 原子的                       |
+atomic                           | 原子的                         | 最小的                       |
+atomic operation                 | 原子操作                       | 最小操作                     |
 attribute                        | 属性                           | 屬性                         |
 automated building               | 自动构建                       | 自動建構                     |
 automated test                   | 自动测试，自动化测试           | 自動測試，自動化測試         |
@@ -33,6 +38,7 @@ benchmark                        | 基准                           | 基準    
 binary                           | 二进制的                       | 二進位的                     |
 binary executable                | 二进制的可执行文件             | 二進位的執行檔               |
 bind                             | 绑定                           | 綁定                         |
+bit                              | 位                             | 位元                         |
 block                            | 语句块，代码块                 | 區塊，程式碼區塊             |
 boolean                          | 布尔型，布尔值                 | 布林型，布林值               |
 borrow check                     | 借用检查                       | 借用檢查                     |
@@ -43,9 +49,10 @@ box                              | 箱子，盒子，装箱类型           | �
 boxed                            | 装箱，装包                     | 裝箱，裝包                   |
 boxing                           | 装箱，装包                     | 裝箱，裝包                   |
 brace                            | 大括号，“{”或“}”               | 大括號，“{”或“}”             |
-buffer                           | 缓冲，缓冲区，缓冲器，缓存     | 缓衝，緩衝區，緩衝器，緩存   |
+buffer                           | 缓冲，缓冲区，缓冲器           | 缓衝，緩衝區，緩衝器         |
 build                            | 构建                           | 建構                         |
 builder pattern                  | 创建者模式                     | 建造者模式                   |
+byte                             | 字节                           | 位元組                       |
 **C**                            |                                |                              |
 call                             | 调用                           | 呼叫                         |
 caller                           | 调用者                         | 呼叫者                       |
@@ -58,6 +65,8 @@ cast                             | 类型转换，转型                 | 型�
 casting                          | 类型转换                       | 型態轉換                       |
 chaining method call             | 链式方法调用                   | 連鎖方法呼叫                     |
 channel                          | 信道，通道                     | 通道，信道                      |
+char                             | 字符                           | 字元                         | 作关键字时不译
+character                        | 字符                           | 字元                         |
 closure                          | 闭包                           | 閉包                         |
 coercion                         | 强制类型转换，强制转换         | 強制型別轉換，強制轉換                | coercion 原意是“强制，胁迫”
 collection                       | 集合                           | 集合                         | 参见 [Wikipedia](https://zh.wikipedia.org/wiki/%E9%9B%86%E5%90%88_(%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6)) |
@@ -76,6 +85,8 @@ compound                         | 复合（类型，数据）             | 複
 concurrency                      | 并发                           | 並行                         |
 conditional compilation          | 条件编译                       | 條件編譯                       |
 configuration                    | 配置                           | 設定                         |
+const                            | 常数，常量                     | 常數，常量                   | 作关键字时不译
+constant                         | 常数，常量                     | 常數，常量                   |
 constructor                      | 构造器                         | 建構子                        |
 consumer                         | 消费者                         | 使用者                        |
 container                        | 容器                           | 容器                         |
@@ -87,14 +98,15 @@ curly braces                     | 大括号，包含“{”和“}”          
 custom type                      | 自定义类型                     | 自訂型別                        |
 Coherence                        | 连贯性                         |                              | 理由是：实际上这个 Coherence 这个词在其相关 [RFC 2451](https://rust-lang.github.io/rfcs/2451-re-rebalancing-coherence.html) 中上下文语境中的意思是，让编译器推理特质更加流畅更加连贯，不要出错。所以“连贯性”更符合这个词在 Rust 中的本意。|
 **D**                            |                                |                 |
-dangling pointer                 | 悬垂指针                       | 懸空指標            | use after free 在释放后使用
+dangling pointer                 | 悬垂指针                       | 懸空指標，迷途指標  | use after free 在释放后使用
 data race                        | 数据竞争                       | 資料競爭            |
 dead code                        | 死代码，无效代码，不可达代码   | 死代碼，無效代碼，不可達代碼  |
 deallocate                       | 释放，重新分配                 | 釋放，重分配          |
 declarative macro                | 声明宏                         |  陳述式巨集           | 参见 [Rust 程序设计语言](https://rustwiki.org/zh-CN/book/ch19-06-macros.html#%E4%BD%BF%E7%94%A8-macro_rules-%E7%9A%84%E5%A3%B0%E6%98%8E%E5%AE%8F%E7%94%A8%E4%BA%8E%E9%80%9A%E7%94%A8%E5%85%83%E7%BC%96%E7%A8%8B)
 declare                          | 声明                           | 宣告              |
 deep copy                        | 深拷贝，深复制                 | 深複製，深度複製        |
-dependency                       | 依赖                           | 依賴              |
+dependency                       | 依赖                           | 相依項，依賴            |
+deque                            | 双端队列                       | 雙端佇列          | Double-ended queue 的缩写
 deref coercion                   | 解引用强制转换                 | 解參考強制轉換         |
 dereference                      | 解引用                         | 解參考             | Rust  文章中有时简写为 Deref
 derive                           | 派生                           | 派生              |
@@ -104,13 +116,15 @@ destructor                       | 析构器，析构函数               | 解�
 destructure                      | 解构                           | 解構              |
 destructuring                    | 解构，解构赋值                 | 解構，解構賦值         |
 desugar                          | 脱糖                           | 去糖              |
-diverge function                 | 发散函数                       | 發散函數            |
+debug                            | 调试                           | 除錯、偵錯        |
+debugger                         | 调试器                         | 除錯器、偵錯器        |
 device drive                     | 设备驱动                       | 設備驅動程式          |
 directory                        | 目录                           | 目錄              |
 dispatch                         | 分发                           | 分派              |
-diverging functions              | 发散函数                       | 發散函數            |
+diverge function                 | 发散函数                       | 發散函式            |
+diverging functions              | 发散函数                       | 發散函式            |
 documentation                    | 文档                           | 文件              |
-dot operator                     | 点运算符                       | 點運算符            |
+dot operator                     | 点运算符                       | 點運算子            |
 DST                              | 动态大小类型                   | 動態大小型別          | dynamic sized type，一般不译，<br>使用英文缩写形式
 dynamic language                 | 动态类型语言                   | 動態型別語言          |
 dynamic trait type               | 动态特质类型                   |  動態特質型別          |
@@ -137,7 +151,7 @@ fmt                              | 格式化，是 format 的缩写       | 格�
 formatter                        | 格式化程序，格式化工具，格式器 | 格式化程式，格式化工具，格式器      |
 floating-point number            | 浮点数                         | 浮點數                  |
 flow control                     | 流程控制                       | 流程控制                 |
-Foreign Function Interface（FFI）| 外部语言函数接口               | 外部語言函數介面             |
+Foreign Function Interface（FFI）| 外部语言函数接口               | 外部語言函式介面             |
 fragment specifier               | 片段分类符                     | 片段分類符                |
 free variable                    | 自由变量                       | 自由變數                 |
 freeze                           | 冻结                           | 冷凍                   |
@@ -147,16 +161,17 @@ functional                       | 函数式                         | 函數式
 **G**                            |                                |                     |
 garbage collector                | 垃圾回收                       | 垃圾回收                |
 generalize                       | 泛化，泛型化                   | 泛化，泛型化              |
-generator                        | 生成器                         | 生成器                 |
+generator                        | 生成器                         | 產生器                 |
 generic                          | 泛型                           | 泛型                  |
 generic type                     | 泛型类型                       | 泛型型別                |
+global variable                  | 全局变量                       | 全域變數                |
 growable                         | 可增长的                       | 可增長的                |
 guard                            | 守卫                           | 守護                  |
 **H**                            |                                |                     |
 handle error                     | 句柄错误                       | 處理錯誤                |
 hash                             | 哈希，哈希值，散列             | 雜湊，雜湊值，散列           |
 hash map                         | 散列映射，哈希表               | 雜湊映射，雜湊表            |
-heap                             | 堆                             | 堆                   |
+heap                             | 堆                             | 堆積                 |
 hierarchy                        | 层次，分层，层次结构           | 層次，分層，層次結構          |
 higher rank lifetime             | 高阶生命周期                   | 高階生命週期              |
 higher rank trait bound          | 高阶特质约束                   |  高階特質約束              |
@@ -173,6 +188,7 @@ implicit discriminator           | 隐式的辨别值                   | 隱含
 implicit type conversion         | 隐式类型转换                   | 隱含型別轉換               |
 import                           | 导入                           | 匯入                   |
 in assignment                    | 在赋值（语句）                 | 在賦值（語句）              |
+indent                           | 缩进                           | 縮排，定位點           |
 index                            | 索引                           | 索引                   | 英语复数形式：indices
 infer                            | 推导（动词）                   | 推論（動詞）               |
 inference                        | 推导（名词）                   | 推論（名詞）               |
@@ -199,11 +215,12 @@ iterator invalidation            | 迭代器失效                     | 疊代�
 **L**                            |                                |                   |
 LHS                              | 左操作数                       | 左操作數              | left-hand side 的非正式缩写，<br>与 RHS 相对
 lender                           | 借出者                         | 借出者               |
-library                          | 库                             | 庫                 |
+library                          | 库                             | 函式庫，程式庫       |
 lifetime                         | 生存时间，寿命，生命周期       | 生存時間，壽命，生命週期      |
 lifetime elision                 | 生命周期省略                   | 生命週期省略            |
-link                             | 链接                           | 連結                |
+link                             | 链接                           | 連結，鏈結              |
 linked-list                      | 链表                           | 鏈結串列            |
+linker                           | 链接器                         | 鏈結器，連結器      |
 lint                             | （不译）                       | （不譯）              | lint 英文本义是“纱布，绒毛”，此词在<br>计算机领域中表示程序代码中可疑和<br>不具结构性的片段，参见 [Wikipedia](https://en.wikipedia.org/wiki/Lint_%28software%29) |
 list                             | 列表                           | 清單                  |
 listener                         | 监听器                         | 監聽器               |
@@ -219,11 +236,12 @@ macro                            | 宏                             | 巨集     
 map                              | 映射                           | 映射                      | 一般不译
 match guard                      | 匹配守卫                       | 匹配守護                    |
 memory                           | 内存                           | 記憶體                     |
+memory address                   | 内存地址                       | 記憶體位址                 |
 memory leak                      | 内存泄露                       | 記憶體流失                   |
 memory safe                      | 内存安全                       | 記憶體安全                   |
 meta                             | 原则，元                       | 後設                    |
-metadata                         | 元数据                         | 後設資料                     |
-metaprogramming                  | 元编程                         | 後設編程                     |
+metadata                         | 元数据                         | 後設資料，詮釋資料      |
+metaprogramming                  | 元编程                         | 元程式設計，超程式設計，後設程式設計 |
 metavariable                     | 元变量                         | 後設變數                     |
 method call syntax               | 方法调用语法                   | 方法呼叫語法                  |
 method chaining                  | 方法链                         | 方法鏈                     |
@@ -240,6 +258,7 @@ mutable reference                | 可变引用                       | 可變�
 multiple bounds                  | 多重约束                       | 多重約束                    |
 mutiple patterns                 | 多重模式                       | 多重模式                    |
 **N**                            |                                |                        |
+namespace                        | 命名空间                       | 命名空間               |
 nest                             | 嵌套                           | 嵌套                     |
 Nightly Rust                     | Rust 开发版                    | Rust 開發版               | nightly本意是“每夜，每天晚上”，<br>指代码每天都更新
 NLL                              | 非词法生命周期                 | 非詞法生命週期                | non lexical lifetime 的缩写，<br>一般不译
@@ -251,7 +270,11 @@ non-scalar cast                  | 非标量转换                     | 非標�
 notation                         | 符号，记号                     | 符號，記號                  |
 numeric                          | 数值，数字                     | 數值，數字                  |
 **O**                            |                                |                        |
-optimization                     | 优化                           | 最優化                    |
+object                           | 对象                           | 物件                   |
+object code                      | 目标代码                       | 目的碼                 |
+object file                      | 目标文件                       | 目的檔                 |
+object-oriented programming      | 面向对象程序设计               | 物件導向程式設計       | 常缩写成 OOP
+optimization                     | 优化                           | 最佳化                    |
 out-of-bounds accessing          | 越界访问                       | 越界存取                   |
 orphan rule                      | 孤儿规则                       | 孤兒規則                   |
 overflow                         | 溢出，越界                     | 溢出，越界                  |
@@ -278,7 +301,7 @@ precede                          | 预先？，在...发生（或出现）    | 
 prelude                          |（不译）                        |（不譯）             | 预先导入模块，英文本意：序曲，前奏
 primitive types                  | 原生类型，基本类型，简单类型   | 原始型別，基本型別，簡單型別  |
 print                            | 打印                           | 列印              |
-process                          | 进程                           | 行程                |
+process                          | 进程                           | 處理程序，行程         |
 procedural macros                | 过程宏，程序宏                 | 过程巨集，程序巨集     |
 project                          | 项目，工程                     | 專案，工程           |
 prototype                        | 原型                           | 原型              |
@@ -297,6 +320,8 @@ reference cycle                  | 引用循环                       | 參考�
 release                          | 发布                           | 發佈             |
 resource                         | 资源                           | 資源             |
 resource leak                    | 资源泄露                       | 資源漏失           |
+return                           | 返回                           | 回傳，傳回         |
+return value                     | 返回值                         | 回傳值，傳回值     |
 RHS                              | 右操作数                       | 右操作數           | right-hand side 的非正式缩写，<br>与 LHS 相对
 root directory                   | 根目录                         | 根目錄            |
 runtime                          | 运行时                         | 執行時期           |
@@ -307,17 +332,19 @@ Rustacean                        | （不译）                       | （不�
 rustc                            | （不译）                       | （不譯）           | Rust 语言编译器
 r-value                          | 右值                           | 右值             |
 **S**                            |                                |                |
-scalar                           | 标量，数量                     | 矩陣，數量          |
+scalar                           | 标量，数量                     | 純量，數量          |
 schedule                         | 调度                           | 排程             |
 scope                            | 作用域                         | 作用域            |
 screen                           | 屏幕                           | 螢幕             |
 script                           | 脚本                           | 腳本             |
+segmenatation fault              | 存储器段错误，存储器区段错误   | 記憶體段錯誤，記憶體區段錯誤 |
 semicolon                        | 分号，“;”                      | 分號，“;”         |
 self                             | 自身，作关键字时不译           | 自身，作關鍵字時不譯     |
 shadow                           | 遮蔽，隐蔽，隐藏，覆盖         | 遮蔽，隱蔽，隱藏，覆蓋    |
 shallow copy                     | 浅拷贝，浅复制                 | 浅複製，淺拷貝        |
-signature                        | 标记                           | 簽名             |
+signature                        | 标记                           | 簽名，簽章       |
 slice                            | 切片                           | 切片             |
+smart pointer                    | 智能指针                       | 智慧指標         |
 snake case                       | 蛇形命名                       | 蛇形命名           | 参见：[Snake case](https://en.wikipedia.org/wiki/Snake_case)
 sound                            | 可靠                           | 可靠             |
 soundness                        | 可靠性                         | 可靠性            | 参见：[Soundness](https://en.wikipedia.org/wiki/Soundness)
@@ -379,7 +406,7 @@ unit struct                      | 单元结构体                     | 單元�
 "unit-style" tests               | 单元测试                       | 單元測試        |
 unit test                        | 单元测试                       | 單元測試        |
 unit type                        | 单元类型                       | 單元型別        |
-universal function call syntax <br>(UFCS)  | 通用函数调用语法     | 通用函數呼叫語法    |
+universal function call syntax <br>(UFCS)  | 通用函数调用语法     | 通用函式呼叫語法    |
 unsized types                    | 不定长类型                     | 不定長型別       |
 unwind                           | 展开                           | 展開          |
 unwrap                           | 解包                           | 解包          |
@@ -394,6 +421,7 @@ visibility                       | 可见性                         | 可見性
 vtable                           | 虚表                           | 虛表          |
 **W**                            |                                |             |
 where clause                     | where 子句，where 从句，where 分句 | where 子句，where 從句，where 分句 | 在数据库的官方手册中多翻译成“子句”，英语语法中翻译成“从句”
+wildcard                         | 通配符                         | 萬用字元          |
 wrap                             | 包裹                           | 包裹              |
 wrapped                          | 装包                           | 裝包              |
 wrapper                          | 装包                           | 裝飾器，包裹器         |
