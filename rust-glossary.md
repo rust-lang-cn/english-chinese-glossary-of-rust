@@ -23,7 +23,7 @@ argument                         | 参数，实参，实际参数           | �
 argument type                    | 参数类型                       | 引數型別                     |
 array                            | 数组                           | 陣列                         |
 assembler                        | 汇编器                         | 組譯器                       |
-assignment                       | 赋值                           | 賦值                         |
+assignment                       | 赋值                           | 指派，賦值                   |
 associated functions             | 关联函数                       | 關聯函式                     |
 associated items                 | 关联项                         | 關聯項目                     |
 associated types                 | 关联类型                       | 關聯型別                     |
@@ -114,7 +114,7 @@ designator                       | 指示符                         | 指示符
 destruction                      | 销毁，毁灭                     | 毀滅，銷毀           |
 destructor                       | 析构器，析构函数               | 解構子，解構函式        |
 destructure                      | 解构                           | 解構              |
-destructuring                    | 解构，解构赋值                 | 解構，解構賦值         |
+destructuring                    | 解构，解构赋值                 | 解構，解構指派，解構賦值    |
 desugar                          | 脱糖                           | 去糖              |
 debug                            | 调试                           | 除錯、偵錯        |
 debugger                         | 调试器                         | 除錯器、偵錯器        |
@@ -187,7 +187,7 @@ implicit                         | 隐式                           | 隱含    
 implicit discriminator           | 隐式的辨别值                   | 隱含的辨別值               |
 implicit type conversion         | 隐式类型转换                   | 隱含型別轉換               |
 import                           | 导入                           | 匯入                   |
-in assignment                    | 在赋值（语句）                 | 在賦值（語句）              |
+in assignment                    | 在赋值（语句）                 | 在指派（陳述式），在賦值（陳述式）  |
 indent                           | 缩进                           | 縮排，定位點           |
 index                            | 索引                           | 索引                   | 英语复数形式：indices
 infer                            | 推导（动词）                   | 推論（動詞）               |
@@ -266,7 +266,7 @@ non-copy type                    | 非复制类型                     | 非複�
 non-generic                      | 非泛型                         | 非泛型                    |
 no-op                            | 空操作，空运算                 | 空操作，空運算                | (此词出现在类型转换章节中）
 non-commutative                  | 非交换的                       | 非交換的                   |
-non-scalar cast                  | 非标量转换                     | 非標量轉換                  |
+non-scalar cast                  | 非标量转换                     | 非純量轉換                  |
 notation                         | 符号，记号                     | 符號，記號                  |
 numeric                          | 数值，数字                     | 數值，數字                  |
 **O**                            |                                |                        |
@@ -336,7 +336,7 @@ scalar                           | 标量，数量                     | 純量�
 schedule                         | 调度                           | 排程             |
 scope                            | 作用域                         | 作用域            |
 screen                           | 屏幕                           | 螢幕             |
-script                           | 脚本                           | 腳本             |
+script                           | 脚本                           | 腳本，手稿          |
 segmenatation fault              | 存储器段错误，存储器区段错误   | 記憶體段錯誤，記憶體區段錯誤 |
 semicolon                        | 分号，“;”                      | 分號，“;”         |
 self                             | 自身，作关键字时不译           | 自身，作關鍵字時不譯     |
@@ -356,7 +356,7 @@ square brackets                  | 中括号，“[”和“]”               |
 src                              | （不译）                       | （不譯）           | source 的缩写，指源代码
 stack                            | 栈                             | 堆疊             |
 stack unwind                     | 栈解开、栈展开                 | 堆疊展開，堆疊回溯      |
-statement                        | 语句                           | 陳述             |
+statement                        | 语句                           | 陳述式             |
 statically allocated             | 静态分配                       | 靜態分配           |
 statically allocated string      | 静态分配的字符串               | 靜態分配的字串        |
 statically dispatch              | 静态分发                       | 靜態派發           |
