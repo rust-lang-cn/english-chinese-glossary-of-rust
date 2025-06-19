@@ -226,6 +226,7 @@ list                             | 列表                           | 清單    
 listener                         | 监听器                         | 監聽器               |
 literal                          | 数据，常量数据，字面值，字面量，<br>字面常量，字面上的 | 資料，常量資料，字面值，字面量，<br>字面常量，字面上的 | 英文意思：字面意义的（内容）
 LLVM                             | （不译）                       | （不譯）                    | Low Level Virtual Machine 的缩写，<br>是构建编译器的系统
+loan                             | 借出                           | 借出                      |
 loop                             | 循环                           | 迴圈                      | 作关键字时不译
 low-level code                   | 底层代码                       | 底層代碼                    |
 low-level language               | 底层语言                       | 底層語言                    |
